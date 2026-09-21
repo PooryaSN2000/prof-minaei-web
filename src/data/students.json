@@ -1,0 +1,1116 @@
+{
+  "active": [
+    {
+      "name": "Alireza Ghasemi",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "/images/people/alireza_ghasemi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/alireza-ghasemi-b33882297/"
+    },
+    {
+      "name": "Fatemeh Marefat",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "/images/people/fateme_marefat.jpeg",
+      "linkedin": "https://www.linkedin.com/in/fateme-marefat-3786a5aa/"
+    },
+    {
+      "name": "Sara Tahanian",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Melika Saraf",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Dr. Shahbazi & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/melika_saraf.jpeg",
+      "linkedin": "https://www.linkedin.com/in/melika-sarraf/"
+    },
+    {
+      "name": "Taghizadeh",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Dr. Seyed Saeed Hosseini & Prof. Minaei",
+      "topic": "Argumentation Mining",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Arefeh Rajabian",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
+      "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
+      "image": "/images/people/arefe_rajabian.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Fatemeh Sotoudeh",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Khademi & Prof. Minaei",
+      "topic": "Improving Document Retrieval Based on Query-Document Matching using Keyphrases and Embeddings",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Negin Karimi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Ghafoori & Prof. Minaei",
+      "topic": "A Hybrid Method Based on Graph Neural Networks and LLMs for Multi-Hop QA Accuracy Improvement",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Somayyeh Rezaei",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
+    },
+    {
+      "name": "Zahra Amiri",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Khademi & Prof. Minaei",
+      "topic": "Unsupervised Entity Alignment in Knowledge Graph",
+      "image": "/images/people/zahra_amiri.jpg",
+      "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
+    },
+    {
+      "name": "Poorya Sanei",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Parham Rahimi & Prof. Minaei",
+      "topic": "Reasoning-Aware Preference Optimization in Large Language Models",
+      "image": "/images/people/poorya_saneei.jpg",
+      "linkedin": "https://www.linkedin.com/in/poorya-saneei/"
+    },
+    {
+      "name": "Mohammadamin Haeri",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "Retrieval Performance Improvement in Retrieval-Augmented Generation",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Aida Khaleghi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "topic": "Medical Image Anomaly Detection via Deep Unrolled Algorithms",
+      "image": "/images/people/aida_khaleghi.jpg",
+      "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
+    },
+    {
+      "name": "Nazanin Ahmadpour",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Khademi & Prof. Minaei",
+      "topic": "Semantic-Preserving Knowledge Graph Compression",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/nazanin-ahmadpour/"
+    },
+    {
+      "name": "Mehdi Aghababaei",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Mirarab & Prof. Minaei",
+      "topic": "Analysis and Mitigation of Path Hallucination in Multi-Hop Reasoning of Knowledge Graph-Augmented Large Language Models",
+      "image": "/images/people/mahdi_aghababaei.jpg",
+      "linkedin": "https://www.linkedin.com/in/mahdi-aghababaei-5b250921a/"
+    },
+    {
+      "name": "Alireza Nazari",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "VLMs in task planning in robotics",
+      "image": "/images/people/alireza_nazari.jpg",
+      "linkedin": "https://www.linkedin.com/in/alireza-nazari-work/"
+    },
+    {
+      "name": "Amirhossein Amin-Moghadam",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Ashtiani & Prof. Minaei",
+      "topic": "Improving NPC's Behavior with Edge Computing",
+      "image": "/images/people/amirhossein_amin_moghaddam.jpeg",
+      "linkedin": "https://www.linkedin.com/in/amirhossein-amin-moghaddam/"
+    },
+    {
+      "name": "Ali Aghaei",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/ali_aghaei.jpg",
+      "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
+    },
+    {
+      "name": "Pouya Kavosh",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Enhancing Reliability in Multimodal AI-Driven Software Systems through a Chain-of-Thought Reasoning Architecture",
+      "image": "/images/people/pooya_kavosh.jpg",
+      "linkedin": "https://www.linkedin.com/in/pooyakavosh/"
+    },
+    {
+      "name": "Mohammad Hossein Karimi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/mohammadhossein_karimi.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Amirhossein Bagheri",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/amirhossein_bagheri.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Mohammad Bakhtiari",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "A Systematic Review of Cost-Effective and Simplified Graph Construction Methods in GraphRAG Systems",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Amirhossein Karami",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/amirhosein_karami.jpg",
+      "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
+    },
+    {
+      "name": "Mohadeseh Emadi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/mohadeseh_emadi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413"
+    },
+    {
+      "name": "Kian Omoomi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Study of Methods for User Representation in Personalized Text Classification",
+      "image": "/images/people/kian_omoomi.jpg",
+      "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
+    },
+    {
+      "name": "Alireza Mohammadi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
+      "image": "/images/people/alireza_mohammadi.jpg",
+      "linkedin": "https://linkedin.com/in/alirezamohammadiii"
+    },
+    {
+      "name": "Fatemeh Yousefi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Maryam Mortazavi Nik",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Consistency checking in semantic web",
+      "image": "/images/people/maryam_mortazavi.jpg",
+      "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Mohammad Abdous",
+      "degree": "Ph.D. Graduate",
+      "program": "Computer Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "/images/people/mohammad_abdous.jpg",
+      "linkedin": "https://www.linkedin.com/in/mohammad-abdous/"
+    },
+    {
+      "name": "Mohammadamin Shahab",
+      "degree": "Ph.D. Graduate",
+      "program": "Computer Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "/images/people/mohammadamin_shahab.jpeg",
+      "linkedin": "https://www.linkedin.com/in/mohammadamin-shahab-979824225/"
+    },
+    {
+      "name": "Peyman Attarsayah",
+      "degree": "M.Sc. (Defended)",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Enhancing Entity Linking Based on the Explorer-Reader Paradigm",
+      "image": "/images/people/peyman_attarsayah.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Reza Alidoust",
+      "degree": "M.Sc. (Defended)",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "Knowledge Graph Completion via Permutation Contrastive Learning on Multimodal Embeddings",
+      "image": "/images/people/reza_alidoost.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Mohammad Qafqazian",
+      "degree": "M.Sc. (Defended)",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Torabian & Prof. Minaei",
+      "topic": "LLM Reasoning",
+      "image": "/images/people/mohammad_qafqazian.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Hanieh Nojabaee",
+      "degree": "M.Sc. (Defended)",
+      "program": "E-Commerce",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Shenasa & Prof. Minaei",
+      "topic": "Title Generation",
+      "image": "",
+      "linkedin": ""
+    }
+  ],
+  "historical_alumni": [
+    {
+      "name": "Rastegar-Mojarad M.",
+      "years": "2005-2007",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": "Implement an algorithm for extracting association rules in multiple relational database"
+    },
+    {
+      "name": "Ghader-Zadeh A.",
+      "years": "2005-2007",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Personalization search engines to improve their performance"
+    },
+    {
+      "name": "Mohseni M.",
+      "years": "2005-2007",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Components word automatic labeling and disambiguation system for Persian language text corpus"
+    },
+    {
+      "name": "Koopaie M.",
+      "years": "2005-2007",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Method for ranking changes in chain stores customers behavior"
+    },
+    {
+      "name": "Lajavardi S. B.",
+      "years": "2006-2007",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Finding the relationship between time series and events data"
+    },
+    {
+      "name": "Drakhshanfar M.",
+      "years": "2006-2008",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "An algorithm to analyze how to publish spatial data using innovative methods"
+    },
+    {
+      "name": "Amiri T.",
+      "years": "2006-2008",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Offering blog link generator model structure and feedBack networks"
+    },
+    {
+      "name": "Rafati L.",
+      "years": "2006-2008",
+      "institution": "Shiraz University",
+      "program": "Information Technology",
+      "topic": "Business services modeling in service oriented organizations"
+    },
+    {
+      "name": "Ghahramani F.",
+      "years": "2005-2007",
+      "institution": "Shiraz University",
+      "program": "Information Technology",
+      "topic": "Data Mining for the Planning Model to an airline flight in an airline company"
+    },
+    {
+      "name": "Kazempoor B.",
+      "years": "2005-2007",
+      "institution": "Shiraz University",
+      "program": "Information Technology",
+      "topic": "Behavior of data mining on increasing revenue flights passing through special company airports in the country"
+    },
+    {
+      "name": "Davari M.",
+      "years": "2005-2007",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Behavior of agencies selling tickets on an airline reservation system based on data mining"
+    },
+    {
+      "name": "Parvin H.",
+      "years": "2006-2007",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Multiple classification systems design using genetic algorithms"
+    },
+    {
+      "name": "Alizadeh H.",
+      "years": "2006-2007",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Clustering-based combination following a series of preliminary results"
+    },
+    {
+      "name": "Iranpour Mobarakeh M.",
+      "years": "2006-2008",
+      "institution": "Azad University: Oloom Tahghighat",
+      "program": "Artificial Intelligence",
+      "topic": "Determination about of the sentences in texts in Persian"
+    },
+    {
+      "name": "Shenasa E.",
+      "years": "2006-2008",
+      "institution": "Azad University: Tehran Jonoub",
+      "program": "Artificial Intelligence",
+      "topic": "Automatic tagging of Qur'anic texts grammatically"
+    },
+    {
+      "name": "Khalvandi M. J.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Automatically extraction of grammatically features of Quranic texts"
+    },
+    {
+      "name": "Ghaderi Khoorasgani R.",
+      "years": "2006-2008",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Provide new approach to improve data quality"
+    },
+    {
+      "name": "Zandi Ghashgaei F.",
+      "years": "2006-2008",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Provide and implement an algorithm to extract pattern of the relational database model"
+    },
+    {
+      "name": "Nezhadian Z.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Presenting a machine learning based approach to combine the clusterers in an efficient and effective retrieval of web information"
+    },
+    {
+      "name": "Nasiri M.",
+      "years": "2006-2009",
+      "institution": "IUST (ELearning)",
+      "program": "Information Technology",
+      "topic": "Relational association rules mining using multi-objective functions"
+    },
+    {
+      "name": "Sabouri M.",
+      "years": "2006-2008",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Design and evaluate a proposing system"
+    },
+    {
+      "name": "Abbasi M.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Presenting an algorithm for clustering topic-based association rules"
+    },
+    {
+      "name": "Moghadam M.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Provide a method of authentication of people using dynamic signature"
+    },
+    {
+      "name": "Aghasi H.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Explore emerging trends in Farsi blogs network"
+    },
+    {
+      "name": "Sabouri H.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": "Supply chain analysis using social networks analysis"
+    },
+    {
+      "name": "Saadat P.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": "Provide the software to improve performance through Web services convert differential data"
+    },
+    {
+      "name": "Dehbashi A.",
+      "years": "2006-2010",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": "Improve the clustering based on keywords Persian texts using linguistic and so-called letter"
+    },
+    {
+      "name": "Mohseni-Kabir N.",
+      "years": "2006-2009",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": "Study the effect of the suffix and prefix in semantic similarity of the Persian sentences, with application target in information retrieval systems"
+    },
+    {
+      "name": "Parvari M.",
+      "years": "2007-2010",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Reinforcement localization errors dynamically using random proposition"
+    },
+    {
+      "name": "Qodmanan H.R.",
+      "years": "2007-2010",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Predicting geometric irregularities of railway lines using fuzzy trees"
+    },
+    {
+      "name": "Etedali A.",
+      "years": "2007-2010",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Field visualizing in aware of the field systems based on user field"
+    },
+    {
+      "name": "Eskandari Z.",
+      "years": "2007-2010",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": "Improving results of detection methods of almost identical texts using semantic relations and text structural information"
+    },
+    {
+      "name": "Taghavi L.",
+      "years": "2007-2009",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": "Extracting numerical association rules with multiple criteria using heat algorithms"
+    },
+    {
+      "name": "Khalilinezhad M.",
+      "years": "2007-2009",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": "Use of association rules for discovering hidden patterns in data Qom Province Blood Transfusion"
+    },
+    {
+      "name": "Jafar-Zadeh M.",
+      "years": "2007-2010",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": "Key factors of success in customer relationship management systems in I.R. Iran (case study of banking networks)"
+    },
+    {
+      "name": "Bigdeli S.",
+      "years": "2007-2010",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": "Protein secondary structure prediction"
+    },
+    {
+      "name": "Doost-Mohammadi A.",
+      "years": "2007-2010",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": "Natural gas consumption domestic subscribers forecasts using data mining procedures"
+    },
+    {
+      "name": "Nasiri N.",
+      "years": "2007-2010",
+      "institution": "IUST",
+      "program": "Information Technology",
+      "topic": "Use of data mining in electronic banking methods for identifying suspicious financial transactions"
+    },
+    {
+      "name": "Moravvaji N.",
+      "years": "2006-2010",
+      "institution": "Industrial Engineering Management system and productivity",
+      "program": "Industrial Management organization",
+      "topic": "Evaluating of performance of search methods in finding stable clusters"
+    },
+    {
+      "name": "Javid G.",
+      "years": "2007-2010",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Discover patterns and rules in the messages of citizens at the center of public oversight of Tehran in 1888, using data mining techniques"
+    },
+    {
+      "name": "Pandi M.H.",
+      "years": "2008",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Provide a similarity ranking framework for sequence patterns"
+    },
+    {
+      "name": "Askari M.",
+      "years": "2008",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": ""
+    },
+    {
+      "name": "Monemian S.A.",
+      "years": "2008",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": ""
+    },
+    {
+      "name": "Danesh M.",
+      "years": "2008",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": ""
+    },
+    {
+      "name": "Fooladgar M.H.",
+      "years": "2008",
+      "institution": "Payame Noor University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Kheir Abadi A.",
+      "years": "2008",
+      "institution": "Arak University",
+      "program": "Software Engineering",
+      "topic": ""
+    },
+    {
+      "name": "Naghavi V.",
+      "years": "2008",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Borhani Z.",
+      "years": "2008",
+      "institution": "Qom University",
+      "program": "",
+      "topic": ""
+    },
+    {
+      "name": "Haj Esmaeili L.",
+      "years": "2008",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Tabatabaei Einaki F.",
+      "years": "2008",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Soltani Mohammadi M.",
+      "years": "2008",
+      "institution": "Qom University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Arasteh M.A.",
+      "years": "2008",
+      "institution": "Payame Noor University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Khoshgoftar M.",
+      "years": "2007",
+      "institution": "Payame Noor University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Niknam M.",
+      "years": "2007",
+      "institution": "Payame Noor University",
+      "program": "Information Technology",
+      "topic": ""
+    },
+    {
+      "name": "Tari M.",
+      "years": "2007",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": ""
+    },
+    {
+      "name": "Rasooli M.S.",
+      "years": "2009",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": ""
+    },
+    {
+      "name": "Ghiasi Mehr H.",
+      "years": "2009",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": ""
+    },
+    {
+      "name": "Zeinalpour Tabrizi Z.",
+      "years": "2009",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": ""
+    },
+    {
+      "name": "Yaghoubnezhad M.A.",
+      "years": "2009",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": ""
+    },
+    {
+      "name": "Ghidar A.",
+      "years": "2009",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": ""
+    },
+    {
+      "name": "Mashayekhi",
+      "years": "2009",
+      "institution": "Arak University",
+      "program": "Software Engineering",
+      "topic": ""
+    },
+    {
+      "name": "Behboudi M.",
+      "years": "2008",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Data Mining in Insurance Industry"
+    }
+  ],
+  "seminars": [
+    {
+      "session": 1,
+      "date": "2025-10-12",
+      "speaker1": "Maryam Mortazavi Nik",
+      "topic1": "Hybrid Reasoning with Classical Solvers & Graph-Based LLMs for Semantic Web Validation",
+      "speaker2": "Mohadeseh Emadi",
+      "topic2": "Reinforcement Learning for Performance Optimization in KG-Augmented RAG"
+    },
+    {
+      "session": 2,
+      "date": "2025-10-26",
+      "speaker1": "Amirhossein Bagheri",
+      "topic1": "Late-Interaction Multimodal Document Retrieval Methods",
+      "speaker2": "",
+      "topic2": ""
+    },
+    {
+      "session": 3,
+      "date": "2025-11-09",
+      "speaker1": "Amirhossein Karami",
+      "topic1": "World Models in Multimodal AI: Reasoning & Planning in Latent Space",
+      "speaker2": "Mohammad Hossein Karimi",
+      "topic2": "Small Language Models for Information Retrieval in Visually Rich Documents (VRD)"
+    },
+    {
+      "session": 4,
+      "date": "2025-11-23",
+      "speaker1": "Fatemeh Yousefi",
+      "topic1": "Multimodal Graph-Augmented RAG: Architectures, Challenges, and Applications",
+      "speaker2": "Ali Aghaei",
+      "topic2": "Inference Paradigms in Multimodal Reasoning"
+    },
+    {
+      "session": 5,
+      "date": "2025-12-07",
+      "speaker1": "Alireza Mohammadi",
+      "topic1": "Uncertainty-Aware Retrieval-Augmented Generation",
+      "speaker2": "Pouya Kavosh",
+      "topic2": "Reliability Enhancement in Multimodal AI Systems using Chain-of-Thought Reasoning"
+    },
+    {
+      "session": 6,
+      "date": "2025-12-21",
+      "speaker1": "Mohammad Bakhtiari",
+      "topic1": "Systematic Cost Reduction in Graph Construction for GraphRAG",
+      "speaker2": "Kian Omoomi",
+      "topic2": "User Representation Approaches in Personalized Text Categorization"
+    }
+  ],
+  "phd": [
+    {
+      "name": "Alireza Ghasemi",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "/images/people/alireza_ghasemi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/alireza-ghasemi-b33882297/"
+    },
+    {
+      "name": "Fatemeh Marefat",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "/images/people/fateme_marefat.jpeg",
+      "linkedin": "https://www.linkedin.com/in/fateme-marefat-3786a5aa/"
+    },
+    {
+      "name": "Sara Tahanian",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Melika Saraf",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Dr. Shahbazi & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/melika_saraf.jpeg",
+      "linkedin": "https://www.linkedin.com/in/melika-sarraf/"
+    },
+    {
+      "name": "Taghizadeh",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Dr. Seyed Saeed Hosseini & Prof. Minaei",
+      "topic": "Argumentation Mining",
+      "image": "",
+      "linkedin": ""
+    }
+  ],
+  "msc": [
+    {
+      "name": "Arefeh Rajabian",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
+      "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
+      "image": "/images/people/arefe_rajabian.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Fatemeh Sotoudeh",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Khademi & Prof. Minaei",
+      "topic": "Improving Document Retrieval Based on Query-Document Matching using Keyphrases and Embeddings",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Negin Karimi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Ghafoori & Prof. Minaei",
+      "topic": "A Hybrid Method Based on Graph Neural Networks and LLMs for Multi-Hop QA Accuracy Improvement",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Somayyeh Rezaei",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
+    },
+    {
+      "name": "Zahra Amiri",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2023 (1402)",
+      "mentor": "Dr. Khademi & Prof. Minaei",
+      "topic": "Unsupervised Entity Alignment in Knowledge Graph",
+      "image": "/images/people/zahra_amiri.jpg",
+      "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
+    },
+    {
+      "name": "Poorya Sanei",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Parham Rahimi & Prof. Minaei",
+      "topic": "Reasoning-Aware Preference Optimization in Large Language Models",
+      "image": "/images/people/poorya_saneei.jpg",
+      "linkedin": "https://www.linkedin.com/in/poorya-saneei/"
+    },
+    {
+      "name": "Mohammadamin Haeri",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "Retrieval Performance Improvement in Retrieval-Augmented Generation",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Aida Khaleghi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "topic": "Medical Image Anomaly Detection via Deep Unrolled Algorithms",
+      "image": "/images/people/aida_khaleghi.jpg",
+      "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
+    },
+    {
+      "name": "Nazanin Ahmadpour",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Khademi & Prof. Minaei",
+      "topic": "Semantic-Preserving Knowledge Graph Compression",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/nazanin-ahmadpour/"
+    },
+    {
+      "name": "Mehdi Aghababaei",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Mirarab & Prof. Minaei",
+      "topic": "Analysis and Mitigation of Path Hallucination in Multi-Hop Reasoning of Knowledge Graph-Augmented Large Language Models",
+      "image": "/images/people/mahdi_aghababaei.jpg",
+      "linkedin": "https://www.linkedin.com/in/mahdi-aghababaei-5b250921a/"
+    },
+    {
+      "name": "Alireza Nazari",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "VLMs in task planning in robotics",
+      "image": "/images/people/alireza_nazari.jpg",
+      "linkedin": "https://www.linkedin.com/in/alireza-nazari-work/"
+    },
+    {
+      "name": "Amirhossein Amin-Moghadam",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2024 (1403)",
+      "mentor": "Dr. Ashtiani & Prof. Minaei",
+      "topic": "Improving NPC's Behavior with Edge Computing",
+      "image": "/images/people/amirhossein_amin_moghaddam.jpeg",
+      "linkedin": "https://www.linkedin.com/in/amirhossein-amin-moghaddam/"
+    },
+    {
+      "name": "Ali Aghaei",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/ali_aghaei.jpg",
+      "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
+    },
+    {
+      "name": "Pouya Kavosh",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Enhancing Reliability in Multimodal AI-Driven Software Systems through a Chain-of-Thought Reasoning Architecture",
+      "image": "/images/people/pooya_kavosh.jpg",
+      "linkedin": "https://www.linkedin.com/in/pooyakavosh/"
+    },
+    {
+      "name": "Mohammad Hossein Karimi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/mohammadhossein_karimi.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Amirhossein Bagheri",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/amirhossein_bagheri.jpg",
+      "linkedin": ""
+    },
+    {
+      "name": "Mohammad Bakhtiari",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "A Systematic Review of Cost-Effective and Simplified Graph Construction Methods in GraphRAG Systems",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Amirhossein Karami",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/amirhosein_karami.jpg",
+      "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
+    },
+    {
+      "name": "Mohadeseh Emadi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
+      "topic": "",
+      "image": "/images/people/mohadeseh_emadi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413"
+    },
+    {
+      "name": "Kian Omoomi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Study of Methods for User Representation in Personalized Text Classification",
+      "image": "/images/people/kian_omoomi.jpg",
+      "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
+    },
+    {
+      "name": "Alireza Mohammadi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
+      "image": "/images/people/alireza_mohammadi.jpg",
+      "linkedin": "https://linkedin.com/in/alirezamohammadiii"
+    },
+    {
+      "name": "Fatemeh Yousefi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Maryam Mortazavi Nik",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2025 (1404)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Consistency checking in semantic web",
+      "image": "/images/people/maryam_mortazavi.jpg",
+      "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246"
+    }
+  ]
+}

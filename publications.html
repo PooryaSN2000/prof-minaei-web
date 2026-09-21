@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications • Prof. Behrouz Minaei-Bidgoli • IUST</title>
+  <link rel="stylesheet" href="/src/styles/main.css">
+</head>
+<body class="bg-white text-gray-800 font-sans antialiased min-h-screen flex flex-col">
+
+  <!-- Minimalist Academic Header -->
+  <header class="border-b border-gray-200 py-6">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="flex flex-col sm:flex-row sm:items-baseline justify-between gap-2 mb-4">
+        <div>
+          <a href="/index.html" class="text-2xl font-bold text-gray-900 hover:text-blue-700 transition-colors">
+            Behrouz Minaei-Bidgoli
+          </a>
+          <div class="text-sm text-gray-600 font-medium mt-0.5">
+            Professor &bull; School of Computer Engineering, Iran University of Science and Technology (IUST)
+          </div>
+        </div>
+        <div class="text-xs text-gray-400 font-mono">minaei.iust.ac.ir</div>
+      </div>
+
+      <nav class="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-medium border-t border-gray-100 pt-3">
+        <a href="/index.html" class="text-gray-600 hover:text-blue-700">Home</a>
+        <a href="/biography.html" class="text-gray-600 hover:text-blue-700">Biography</a>
+        <a href="/publications.html" class="text-blue-700 font-bold">Publications</a>
+        <a href="/teaching.html" class="text-gray-600 hover:text-blue-700">Teaching</a>
+        <a href="/students.html" class="text-gray-600 hover:text-blue-700">Students &amp; Alumni</a>
+        <a href="/contact.html" class="text-gray-600 hover:text-blue-700">Contact</a>
+        <a href="http://dml.iust.ac.ir/" target="_blank" class="text-gray-500 hover:text-gray-800 text-xs">Data Mining Lab (DML) &rarr;</a>
+        <a href="https://www.linkedin.com/company/iust-data-mining-lab/" target="_blank" rel="noopener noreferrer" class="text-[#0a66c2] hover:underline text-xs flex items-center gap-1 font-semibold">
+          <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.6a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34z"/></svg>
+          <span>DML LinkedIn &rarr;</span>
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="flex-1 max-w-4xl mx-auto px-4 sm:px-6 py-10 w-full space-y-6">
+    
+    <div class="flex flex-col sm:flex-row sm:items-baseline justify-between gap-2 border-b border-gray-100 pb-2">
+      <div>
+        <h1 class="text-2xl font-bold text-gray-900">Publications &amp; Preprints</h1>
+        <p class="text-xs text-gray-600 mt-1">
+          Complete, verified academic repository containing 440+ articles synced directly with Google Scholar.
+        </p>
+      </div>
+      <a 
+        href="https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en" 
+        target="_blank" 
+        class="text-xs font-mono text-blue-700 hover:underline shrink-0 font-medium"
+      >
+        Google Scholar Profile (9,800+ Cites) &rarr;
+      </a>
+    </div>
+
+    <!-- Annual Citations Growth Collapsible/Visualizer -->
+    <details open class="p-4 bg-gray-50 border border-gray-200/80 rounded-xl group text-xs text-gray-700 space-y-2">
+      <summary class="font-bold text-gray-900 cursor-pointer flex flex-col sm:flex-row sm:items-center justify-between gap-1.5 select-none">
+        <div class="flex items-center gap-2">
+          <span>Annual Citations Growth Chart (2005 – 2026)</span>
+          <span class="text-blue-700 font-mono text-[10px] font-normal group-open:hidden">Show &darr;</span>
+          <span class="text-blue-700 font-mono text-[10px] font-normal hidden group-open:inline">Hide &uarr;</span>
+        </div>
+        <div class="inline-flex items-center gap-1.5 bg-white border border-gray-200 px-2 py-0.5 rounded shadow-2xs self-start sm:self-auto">
+          <span class="w-1.5 h-1.5 rounded-full bg-blue-600 animate-pulse"></span>
+          <span class="text-[11px] font-mono font-bold text-blue-800" id="pub-chart-indicator">Hover or tap a bar for details</span>
+        </div>
+      </summary>
+      
+      <div class="pt-3 space-y-2">
+        <div class="relative pt-4 pb-2">
+          <!-- Reference Grid Lines -->
+          <div class="absolute inset-x-0 top-4 bottom-2 flex flex-col justify-between pointer-events-none opacity-40">
+            <div class="border-b border-dashed border-gray-300 w-full flex justify-end"><span class="text-[9px] font-mono text-gray-400 bg-gray-50 px-1 -translate-y-2">1,000</span></div>
+            <div class="border-b border-dashed border-gray-300 w-full flex justify-end"><span class="text-[9px] font-mono text-gray-400 bg-gray-50 px-1 -translate-y-2">750</span></div>
+            <div class="border-b border-dashed border-gray-300 w-full flex justify-end"><span class="text-[9px] font-mono text-gray-400 bg-gray-50 px-1 -translate-y-2">500</span></div>
+            <div class="border-b border-dashed border-gray-300 w-full flex justify-end"><span class="text-[9px] font-mono text-gray-400 bg-gray-50 px-1 -translate-y-2">250</span></div>
+            <div class="border-b border-gray-300 w-full"></div>
+          </div>
+
+          <!-- Bars -->
+          <div class="h-44 sm:h-52 flex items-end gap-1 sm:gap-1.5 border-b border-gray-300 relative z-10 px-0.5 sm:px-1" id="pub-citation-bars">
+            <!-- Rendered via JS -->
+          </div>
+        </div>
+
+        <div class="flex justify-between text-[10px] sm:text-xs text-gray-500 font-mono px-1">
+          <span>2005 (56)</span>
+          <span class="hidden sm:inline">2010</span>
+          <span>2015 (460)</span>
+          <span class="hidden sm:inline">2020</span>
+          <span>2025 (949)</span>
+          <span>2026</span>
+        </div>
+      </div>
+    </details>
+
+    <!-- Search, Filter & Sort Controls -->
+    <div class="p-3.5 bg-gray-50 border border-gray-200/80 rounded space-y-3">
+      <!-- Search Input + Dropdowns -->
+      <div class="flex flex-col sm:flex-row gap-2.5">
+        <div class="relative flex-1">
+          <input 
+            type="text" 
+            id="search-input" 
+            placeholder="Search by article title, co-author, journal, conference..." 
+            class="w-full px-3 py-1.5 text-xs border border-gray-300 rounded bg-white focus:outline-none focus:border-blue-600 transition-colors"
+          >
+        </div>
+        
+        <div class="flex gap-2 shrink-0">
+          <select id="year-filter" class="px-2.5 py-1.5 text-xs border border-gray-300 rounded bg-white focus:outline-none">
+            <option value="all">All Years</option>
+            <option value="2026">2026</option>
+            <option value="2025">2025</option>
+            <option value="2024">2024</option>
+            <option value="2023">2023</option>
+            <option value="2022">2022</option>
+            <option value="2021">2021</option>
+            <option value="older">2020 &amp; Earlier</option>
+          </select>
+
+          <select id="sort-select" class="px-2.5 py-1.5 text-xs border border-gray-300 rounded bg-white focus:outline-none">
+            <option value="year-desc">Sort: Newest First</option>
+            <option value="citations-desc">Sort: Most Cited</option>
+            <option value="year-asc">Sort: Oldest First</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Topical Category Filter Tabs -->
+      <div class="flex flex-wrap items-center gap-x-2 gap-y-1 text-xs border-t border-gray-200/60 pt-2.5" id="topic-filters">
+        <span class="text-gray-400 font-semibold text-[11px] mr-1">Topic:</span>
+        <button data-cat="all" class="topic-btn font-bold text-blue-700">All</button>
+        <span class="text-gray-300">&bull;</span>
+        <button data-cat="NLP & Large Language Models" class="topic-btn text-gray-600 hover:text-blue-700">NLP &amp; LLMs</button>
+        <span class="text-gray-300">&bull;</span>
+        <button data-cat="Knowledge Graphs & Semantic Web" class="topic-btn text-gray-600 hover:text-blue-700">Knowledge Graphs</button>
+        <span class="text-gray-300">&bull;</span>
+        <button data-cat="Recommender Systems & Data Mining" class="topic-btn text-gray-600 hover:text-blue-700">Recommender Systems</button>
+        <span class="text-gray-300">&bull;</span>
+        <button data-cat="Educational Data Mining & Learning Analytics" class="topic-btn text-gray-600 hover:text-blue-700">Educational Mining</button>
+        <span class="text-gray-300">&bull;</span>
+        <button data-cat="Computer Games & Interactive Entertainment" class="topic-btn text-gray-600 hover:text-blue-700">Computer Games</button>
+      </div>
+
+      <!-- Live Count Status -->
+      <div class="flex flex-wrap items-center justify-between gap-2 text-xs text-gray-500 pt-0.5 border-t border-gray-200/50">
+        <div class="flex items-center gap-2">
+          <span id="pub-count" class="font-medium text-gray-700"></span>
+          <span class="text-gray-300">&bull;</span>
+          <span class="font-mono text-[11px] text-gray-400">Google Scholar Live Sync</span>
+        </div>
+        <div class="text-[11px] text-gray-500">
+          Showing authentic Google Scholar format with 1-click BibTeX
+        </div>
+      </div>
+    </div>
+
+    <!-- Publications List -->
+    <div class="space-y-3.5 divide-y divide-gray-100" id="publications-list">
+      <!-- Injected via JS -->
+    </div>
+
+    <!-- Load More Button -->
+    <div class="text-center pt-4 pb-8" id="load-more-container">
+      <button 
+        id="load-more-btn" 
+        class="px-5 py-2 text-xs font-semibold text-gray-700 bg-gray-100 hover:bg-gray-200 border border-gray-300 rounded transition-colors"
+      >
+        Load More Publications &darr;
+      </button>
+    </div>
+
+  </main>
+
+  <!-- BibTeX Modal -->
+  <div id="bibtex-modal" class="fixed inset-0 z-50 hidden flex items-center justify-center bg-black/40 p-4">
+    <div class="bg-white rounded border border-gray-300 shadow-xl max-w-xl w-full p-5 space-y-3">
+      <div class="flex items-center justify-between border-b border-gray-100 pb-2">
+        <h3 class="font-bold text-sm text-gray-900">BibTeX Citation</h3>
+        <button id="close-modal" class="text-gray-400 hover:text-gray-600 text-lg leading-none">&times;</button>
+      </div>
+      <pre id="bibtex-text" class="p-3 bg-gray-50 border border-gray-200 rounded text-xs font-mono overflow-x-auto text-gray-800 leading-relaxed"></pre>
+      <div class="flex justify-end gap-2">
+        <button id="copy-btn" class="px-3 py-1.5 text-xs font-semibold text-white bg-blue-700 hover:bg-blue-800 rounded transition-colors">
+          Copy to Clipboard
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Minimalist Academic Footer -->
+  <footer class="border-t border-gray-200 py-6 mt-16 text-xs text-gray-500">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>&copy; 2026 Prof. Behrouz Minaei-Bidgoli &bull; School of Computer Engineering, IUST.</div>
+      <div class="flex items-center gap-4">
+        <a href="/index.html" class="hover:underline">Home</a>
+        <span>&bull;</span>
+        <a href="/biography.html" class="hover:underline">Biography</a>
+        <span>&bull;</span>
+        <a href="/teaching.html" class="hover:underline">Teaching</a>
+        <span>&bull;</span>
+        <a href="/students.html" class="hover:underline">Students &amp; Alumni</a>
+        <span>&bull;</span>
+        <a href="https://www.linkedin.com/company/iust-data-mining-lab/" target="_blank" rel="noopener noreferrer" class="hover:underline text-[#0a66c2]">DML LinkedIn</a>
+        <span>&bull;</span>
+        <a href="/contact.html" class="hover:underline">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module">
+    import publications from '/src/data/publications.json';
+    import scholarStats from '/src/data/scholar_stats.json';
+
+    let activeCategory = 'all';
+    let activeYear = 'all';
+    let searchQuery = '';
+    let currentSort = 'year-desc';
+    let displayLimit = 60;
+    const PAGE_CHUNK = 60;
+
+    const listContainer = document.getElementById('publications-list');
+    const searchInput = document.getElementById('search-input');
+    const yearSelect = document.getElementById('year-filter');
+    const sortSelect = document.getElementById('sort-select');
+    const countSpan = document.getElementById('pub-count');
+    const topicButtons = document.querySelectorAll('.topic-btn');
+    const loadMoreContainer = document.getElementById('load-more-container');
+    const loadMoreBtn = document.getElementById('load-more-btn');
+
+    const modal = document.getElementById('bibtex-modal');
+    const bibtexText = document.getElementById('bibtex-text');
+    const closeModal = document.getElementById('close-modal');
+    const copyBtn = document.getElementById('copy-btn');
+
+    closeModal.onclick = () => modal.classList.add('hidden');
+    modal.onclick = (e) => { if (e.target === modal) modal.classList.add('hidden'); };
+    copyBtn.onclick = () => {
+      navigator.clipboard.writeText(bibtexText.textContent).then(() => {
+        copyBtn.textContent = 'Copied!';
+        setTimeout(() => copyBtn.textContent = 'Copy to Clipboard', 2000);
+      });
+    };
+
+    // Render annual citation bars in details
+    const pubCitationBars = document.getElementById('pub-citation-bars');
+    const pubIndicator = document.getElementById('pub-chart-indicator');
+    if (pubCitationBars && scholarStats && scholarStats.history) {
+      const history = scholarStats.history;
+      const maxVal = Math.max(...history.map(h => h.citations), 1);
+      pubCitationBars.innerHTML = history.map(item => {
+        const heightPct = Math.max(Math.round((item.citations / maxVal) * 100), 5);
+        return `
+          <div 
+            class="flex-1 min-w-[9px] sm:min-w-[14px] bg-blue-600/85 hover:bg-blue-700 active:bg-blue-800 transition-all rounded-t cursor-pointer group relative flex flex-col justify-end items-center pub-bar-el"
+            style="height: ${heightPct}%;"
+            data-year="${item.year}"
+            data-count="${item.citations}"
+            tabindex="0"
+            role="button"
+            aria-label="${item.year}: ${item.citations} citations"
+          >
+            <!-- Floating Tooltip directly above bar -->
+            <div class="opacity-0 group-hover:opacity-100 group-focus:opacity-100 transition-all duration-150 absolute bottom-full mb-1.5 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-[11px] font-mono py-1 px-2 rounded-md shadow-lg z-30 pointer-events-none whitespace-nowrap text-center">
+              <div class="font-bold text-sky-300 text-xs">${Number(item.citations).toLocaleString()}</div>
+              <div class="text-[9px] text-gray-300">${item.year}</div>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      const pubBars = pubCitationBars.querySelectorAll('.pub-bar-el');
+      function selectPubBar(bar) {
+        pubBars.forEach(b => {
+          b.classList.remove('bg-blue-800', 'ring-2', 'ring-blue-400', 'z-20');
+          b.classList.add('opacity-70');
+        });
+        bar.classList.remove('opacity-70');
+        bar.classList.add('bg-blue-800', 'ring-2', 'ring-blue-400', 'z-20');
+        const yr = bar.getAttribute('data-year');
+        const cnt = Number(bar.getAttribute('data-count')).toLocaleString();
+        if (pubIndicator) {
+          pubIndicator.innerHTML = `<span>Year ${yr}:</span> <span class="text-blue-700 font-extrabold">${cnt}</span> citations`;
+        }
+      }
+
+      function resetPubBars() {
+        pubBars.forEach(b => {
+          b.classList.remove('opacity-70', 'bg-blue-800', 'ring-2', 'ring-blue-400', 'z-20');
+        });
+        if (pubIndicator) {
+          pubIndicator.textContent = 'Hover or tap a bar for details';
+        }
+      }
+
+      pubBars.forEach(bar => {
+        bar.addEventListener('mouseenter', () => selectPubBar(bar));
+        bar.addEventListener('focus', () => selectPubBar(bar));
+        bar.addEventListener('click', (e) => {
+          e.stopPropagation();
+          selectPubBar(bar);
+        });
+        bar.addEventListener('touchstart', (e) => {
+          selectPubBar(bar);
+        }, { passive: true });
+      });
+
+      pubCitationBars.addEventListener('mouseleave', resetPubBars);
+      document.addEventListener('click', (e) => {
+        if (!pubCitationBars.contains(e.target)) {
+          resetPubBars();
+        }
+      });
+    }
+
+    function render() {
+      // 1. Filter
+      let filtered = publications.filter(p => {
+        const matchCat = activeCategory === 'all' || p.category === activeCategory;
+
+        let matchYear = true;
+        if (activeYear === 'older') matchYear = (p.year || 0) <= 2020;
+        else if (activeYear !== 'all') matchYear = p.year === parseInt(activeYear);
+
+        let matchQuery = true;
+        if (searchQuery.trim() !== '') {
+          const q = searchQuery.toLowerCase();
+          matchQuery = `${p.title} ${p.authors} ${p.venue} ${p.category}`.toLowerCase().includes(q);
+        }
+
+        return matchCat && matchYear && matchQuery;
+      });
+
+      // 2. Sort
+      filtered.sort((a, b) => {
+        if (currentSort === 'year-desc') {
+          return (b.year || 0) - (a.year || 0) || (b.citations || 0) - (a.citations || 0);
+        } else if (currentSort === 'citations-desc') {
+          return (b.citations || 0) - (a.citations || 0) || (b.year || 0) - (a.year || 0);
+        } else if (currentSort === 'year-asc') {
+          return (a.year || 0) - (b.year || 0);
+        }
+        return 0;
+      });
+
+      countSpan.textContent = `Showing ${Math.min(displayLimit, filtered.length)} of ${filtered.length} matching (${publications.length} total)`;
+
+      if (filtered.length === 0) {
+        listContainer.innerHTML = `<div class="py-12 text-center text-xs text-gray-400 italic">No publications matched your search criteria.</div>`;
+        loadMoreContainer.classList.add('hidden');
+        return;
+      }
+
+      const visibleSlice = filtered.slice(0, displayLimit);
+      if (filtered.length > displayLimit) {
+        loadMoreContainer.classList.remove('hidden');
+      } else {
+        loadMoreContainer.classList.add('hidden');
+      }
+
+      listContainer.innerHTML = visibleSlice.map((p, idx) => {
+        // Highlight Minaei in author list
+        let authorHtml = p.authors || 'Behrouz Minaei-Bidgoli';
+        authorHtml = authorHtml.replace(/(B Minaei-Bidgoli|B Minaei|Behrouz Minaei-Bidgoli|Behrouz Minaei)/g, '<strong class="text-gray-900">$1</strong>');
+
+        return `
+          <div class="pt-3 pb-2 text-xs space-y-1 hover:bg-gray-50/50 rounded px-2 -mx-2 transition-colors">
+            <div class="flex items-baseline justify-between gap-3">
+              <a 
+                href="${p.scholar_link}" 
+                target="_blank" 
+                class="text-sm font-semibold text-blue-700 hover:underline leading-snug"
+              >
+                ${p.title}
+              </a>
+              ${p.year ? `<span class="font-mono text-xs text-gray-500 font-semibold shrink-0">${p.year}</span>` : ''}
+            </div>
+
+            <div class="text-xs text-gray-600 leading-normal">
+              ${authorHtml}
+            </div>
+
+            ${p.venue ? `<div class="text-xs text-gray-500 italic leading-tight">${p.venue}</div>` : ''}
+
+            <div class="flex flex-wrap items-center gap-3 pt-1 text-[11px]">
+              ${p.citations > 0 ? `
+                <a 
+                  href="${p.citations_link || p.scholar_link}" 
+                  target="_blank" 
+                  class="font-mono font-medium text-emerald-800 bg-emerald-50 px-1.5 py-0.5 rounded border border-emerald-200 hover:bg-emerald-100 transition-colors"
+                >
+                  Cited by ${p.citations}
+                </a>
+              ` : `
+                <span class="font-mono text-gray-400">0 citations</span>
+              `}
+
+              ${p.category ? `
+                <span class="text-[10px] px-1.5 py-0.5 rounded bg-gray-100 text-gray-600 border border-gray-200 font-medium">
+                  ${p.category}
+                </span>
+              ` : ''}
+
+              <a 
+                href="${p.scholar_link}" 
+                target="_blank" 
+                class="text-blue-700 hover:underline font-medium"
+              >
+                Google Scholar &rarr;
+              </a>
+
+              <button 
+                data-id="${p.id}" 
+                class="bib-btn text-gray-500 hover:text-gray-900 font-mono font-medium"
+              >
+                [BibTeX]
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      // Wire BibTeX buttons
+      document.querySelectorAll('.bib-btn').forEach(btn => {
+        btn.onclick = () => {
+          const id = btn.getAttribute('data-id');
+          const pub = publications.find(p => p.id === id);
+          if (pub && pub.bibtex) {
+            bibtexText.textContent = pub.bibtex;
+            modal.classList.remove('hidden');
+          }
+        };
+      });
+    }
+
+    loadMoreBtn.onclick = () => {
+      displayLimit += PAGE_CHUNK;
+      render();
+    };
+
+    topicButtons.forEach(btn => {
+      btn.onclick = () => {
+        topicButtons.forEach(b => {
+          b.className = 'topic-btn text-gray-600 hover:text-blue-700';
+        });
+        btn.className = 'topic-btn font-bold text-blue-700';
+        activeCategory = btn.getAttribute('data-cat');
+        displayLimit = PAGE_CHUNK;
+        render();
+      };
+    });
+
+    yearSelect.onchange = (e) => {
+      activeYear = e.target.value;
+      displayLimit = PAGE_CHUNK;
+      render();
+    };
+
+    sortSelect.onchange = (e) => {
+      currentSort = e.target.value;
+      render();
+    };
+
+    searchInput.oninput = (e) => {
+      searchQuery = e.target.value;
+      displayLimit = PAGE_CHUNK;
+      render();
+    };
+
+    render();
+  </script>
+</body>
+</html>

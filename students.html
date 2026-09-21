@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Students &amp; Alumni • Prof. Behrouz Minaei-Bidgoli • IUST</title>
+  <link rel="stylesheet" href="/src/styles/main.css">
+</head>
+<body class="bg-white text-gray-800 font-sans antialiased min-h-screen flex flex-col">
+
+  <!-- Minimalist Academic Header -->
+  <header class="border-b border-gray-200 py-6">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6">
+      <div class="flex flex-col sm:flex-row sm:items-baseline justify-between gap-2 mb-4">
+        <div>
+          <a href="/index.html" class="text-2xl font-bold text-gray-900 hover:text-blue-700 transition-colors">
+            Behrouz Minaei-Bidgoli
+          </a>
+          <div class="text-sm text-gray-600 font-medium mt-0.5">
+            Professor &bull; School of Computer Engineering, Iran University of Science and Technology (IUST)
+          </div>
+        </div>
+        <div class="text-xs text-gray-400 font-mono">minaei.iust.ac.ir</div>
+      </div>
+
+      <nav class="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-medium border-t border-gray-100 pt-3">
+        <a href="/index.html" class="text-gray-600 hover:text-blue-700">Home</a>
+        <a href="/biography.html" class="text-gray-600 hover:text-blue-700">Biography</a>
+        <a href="/publications.html" class="text-gray-600 hover:text-blue-700">Publications</a>
+        <a href="/teaching.html" class="text-gray-600 hover:text-blue-700">Teaching</a>
+        <a href="/students.html" class="text-blue-700 font-bold">Students &amp; Alumni</a>
+        <a href="/contact.html" class="text-gray-600 hover:text-blue-700">Contact</a>
+        <a href="http://dml.iust.ac.ir/" target="_blank" class="text-gray-500 hover:text-gray-800 text-xs">Data Mining Lab (DML) &rarr;</a>
+        <a href="https://www.linkedin.com/company/iust-data-mining-lab/" target="_blank" rel="noopener noreferrer" class="text-[#0a66c2] hover:underline text-xs flex items-center gap-1 font-semibold">
+          <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.6a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34z"/></svg>
+          <span>DML LinkedIn &rarr;</span>
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="flex-1 max-w-4xl mx-auto px-4 sm:px-6 py-10 w-full space-y-12">
+    
+    <div>
+      <h1 class="text-2xl font-bold text-gray-900 border-b border-gray-100 pb-2">Students &amp; Research Advisees</h1>
+      <p class="text-sm text-gray-600 mt-2 leading-relaxed">
+        I am privileged to advise outstanding doctoral and master's students at the 
+        <a href="http://dml.iust.ac.ir/" target="_blank" class="text-blue-700 font-medium hover:underline">Data Mining Laboratory (DML)</a> 
+        (<a href="https://www.linkedin.com/company/iust-data-mining-lab/" target="_blank" rel="noopener noreferrer" class="text-[#0a66c2] font-semibold hover:underline">DML LinkedIn</a>) 
+        in the School of Computer Engineering at Iran University of Science and Technology.
+      </p>
+    </div>
+
+    <!-- Active Advisees Section with Unified Styling -->
+    <section class="space-y-6">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-gray-100 pb-3">
+        <div>
+          <div class="flex items-center gap-2">
+            <h2 class="text-lg font-bold text-gray-900">Current Advisees</h2>
+            <span class="text-xs font-mono text-gray-400" id="active-count"></span>
+          </div>
+          <p class="text-xs text-gray-500 mt-0.5">Doctoral and Master's researchers conducting thesis investigations at DML.</p>
+        </div>
+
+        <!-- Filter Buttons & Search -->
+        <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-2">
+          <div class="inline-flex rounded-md border border-gray-200 bg-gray-50 p-0.5 text-xs font-medium">
+            <button id="filter-all" class="degree-filter-btn px-2.5 py-1 rounded bg-white text-gray-900 font-semibold shadow-sm">All</button>
+            <button id="filter-phd" class="degree-filter-btn px-2.5 py-1 rounded text-gray-600 hover:text-gray-900">Ph.D.</button>
+            <button id="filter-msc" class="degree-filter-btn px-2.5 py-1 rounded text-gray-600 hover:text-gray-900">M.Sc.</button>
+          </div>
+          <div class="w-full sm:w-56">
+            <input 
+              type="text" 
+              id="student-search" 
+              placeholder="Search advisees..." 
+              class="w-full px-3 py-1.5 text-xs bg-gray-50 border border-gray-300 rounded focus:bg-white focus:outline-none focus:border-blue-600 transition-colors"
+            >
+          </div>
+        </div>
+      </div>
+
+      <!-- Unified Student Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="active-students-grid">
+        <!-- Injected via JavaScript -->
+      </div>
+    </section>
+
+    <!-- Graduated Alumni & Defended Theses Section -->
+    <section class="space-y-6 pt-4">
+      <div class="border-b border-gray-100 pb-2">
+        <h2 class="text-lg font-bold text-gray-900">Graduated Alumni &amp; Defended Theses</h2>
+        <p class="text-xs text-gray-500 mt-0.5">Scholars who completed and defended their graduate theses under Prof. Minaei's supervision.</p>
+      </div>
+
+      <!-- Academic Archive Disclaimer -->
+      <div class="p-3.5 bg-slate-50 border border-slate-200 rounded text-xs text-slate-700 leading-relaxed space-y-1">
+        <div class="font-semibold text-slate-900 flex items-center gap-1.5">
+          <span class="inline-block w-2 h-2 rounded-full bg-slate-400"></span>
+          Selected Alumni &amp; Defended Theses Archive
+        </div>
+        <p>
+          Over the past two decades, Prof. Behrouz Minaei-Bidgoli has supervised or co-supervised dozens of Ph.D. dissertations and over 60 M.Sc. theses across Iran University of Science and Technology, Michigan State University, University of Qom, Shiraz University, and partner institutions. Below is a curated record of recent defended graduates and the digitized historical archive.
+        </p>
+      </div>
+
+      <!-- Recent Defended Alumni Grid -->
+      <div class="space-y-3">
+        <h3 class="text-xs font-bold text-gray-900 uppercase tracking-wide">Recent Defended Theses &amp; Ph.D. Graduates</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="alumni-grid">
+          <!-- Injected via JavaScript -->
+        </div>
+      </div>
+
+      <!-- Historical Defended Theses Archive (2005–2010) -->
+      <div class="space-y-4 pt-4 border-t border-gray-100">
+        <div class="flex flex-col sm:flex-row sm:items-baseline justify-between gap-2 border-b border-gray-100 pb-2">
+          <div>
+            <div class="flex items-center gap-2">
+              <h3 class="text-xs font-bold text-gray-900 uppercase tracking-wide">Historical Graduate Theses Archive (2005&ndash;2010)</h3>
+              <span class="text-xs font-mono text-gray-400" id="historical-badge-count">(62 Theses)</span>
+            </div>
+            <p class="text-xs text-gray-500 mt-0.5">Graduate alumni theses supervised during early DML establishment across IUST, Qom, Shiraz, and partner universities.</p>
+          </div>
+          <div class="w-full sm:w-64">
+            <input 
+              type="text" 
+              id="historical-search" 
+              placeholder="Search by alumnus, topic, university..." 
+              class="w-full px-3 py-1.5 text-xs bg-gray-50 border border-gray-300 rounded-md focus:bg-white focus:outline-none focus:border-blue-600 transition-colors"
+            >
+          </div>
+        </div>
+
+        <!-- Quick Institution Filter Chips -->
+        <div class="flex flex-wrap gap-1.5 text-xs font-medium" id="historical-chips">
+          <button data-inst="all" class="hist-chip px-2.5 py-1 rounded bg-gray-900 text-white font-semibold shadow-2xs">All (62)</button>
+          <button data-inst="IUST" class="hist-chip px-2.5 py-1 rounded bg-gray-100 text-gray-700 hover:bg-gray-200">IUST</button>
+          <button data-inst="Qom University" class="hist-chip px-2.5 py-1 rounded bg-gray-100 text-gray-700 hover:bg-gray-200">Qom Univ</button>
+          <button data-inst="Shiraz University" class="hist-chip px-2.5 py-1 rounded bg-gray-100 text-gray-700 hover:bg-gray-200">Shiraz Univ</button>
+          <button data-inst="other" class="hist-chip px-2.5 py-1 rounded bg-gray-100 text-gray-700 hover:bg-gray-200">Other Institutions</button>
+        </div>
+
+        <!-- Responsive Theses Card Grid (Mobile 1 col, Desktop 2 cols) -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3" id="historical-cards-container">
+          <!-- Injected via JS -->
+        </div>
+
+        <!-- Pagination & Counts -->
+        <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-2">
+          <span class="text-xs font-mono text-gray-500" id="historical-count">Showing 12 of 62 historical theses</span>
+          <div class="flex gap-2" id="historical-btn-group">
+            <button id="historical-load-more" class="px-3.5 py-1.5 text-xs font-semibold rounded bg-gray-100 text-gray-800 hover:bg-gray-200 border border-gray-300 transition-colors shadow-2xs">
+              Load More Theses (+12)
+            </button>
+            <button id="historical-show-all" class="px-3.5 py-1.5 text-xs font-semibold rounded bg-white text-blue-700 hover:bg-blue-50 border border-blue-200 transition-colors shadow-2xs">
+              Show All (62)
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Historical Doctoral Scholars & Career Placements -->
+      <div class="border border-gray-200 rounded p-4 bg-white space-y-3">
+        <h3 class="text-xs font-bold text-gray-900 uppercase tracking-wide">Doctoral Alumni Career Placements</h3>
+        <p class="text-xs text-gray-600 leading-relaxed">
+          Graduates of our laboratory hold faculty, research scientist, and technical leadership positions worldwide:
+        </p>
+        <ul class="text-xs text-gray-700 space-y-1.5 list-disc list-inside leading-relaxed">
+          <li><strong>Academic Institutions:</strong> Faculty members and postdoctoral researchers at top universities in Iran, Europe, and North America.</li>
+          <li><strong>Global Research &amp; Industry:</strong> AI research scientists and senior engineers at technology enterprises and research laboratories (EPFL, Max Planck Institute, University of Toronto, UBC, etc.).</li>
+          <li><strong>National Technology Initiatives:</strong> Leadership roles across data engineering, NLP software systems, and interactive digital media.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Information for Prospective Advisees -->
+    <section class="p-5 bg-gray-50 border border-gray-200 rounded space-y-3">
+      <h3 class="text-sm font-bold text-gray-900">Information for Prospective Advisees</h3>
+      <div class="text-xs text-gray-700 leading-relaxed space-y-2">
+        <p>
+          I welcome motivated graduate students (Ph.D. and M.Sc.) who are eager to learn and explore research in artificial intelligence, machine learning, and data mining.
+        </p>
+        <p>
+          If you are interested in conducting your thesis research at DML, please send an email with your CV (PDF format) and a brief note about your background and interests to <a href="mailto:b_minaei@iust.ac.ir" class="text-blue-700 font-mono">b_minaei@iust.ac.ir</a> with the subject format <code class="bg-gray-200 px-1.5 py-0.5 rounded text-gray-800 font-mono text-[11px]">[DML Prospective Student] [Ph.D. / M.Sc.] Your Full Name &ndash; Research Area</code>.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-gray-200 py-6 mt-16 text-xs text-gray-500">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>&copy; 2026 Prof. Behrouz Minaei-Bidgoli &bull; School of Computer Engineering, IUST.</div>
+      <div class="flex items-center gap-4">
+        <a href="/index.html" class="hover:underline">Home</a>
+        <span>&bull;</span>
+        <a href="/biography.html" class="hover:underline">Biography</a>
+        <span>&bull;</span>
+        <a href="/publications.html" class="hover:underline">Publications</a>
+        <span>&bull;</span>
+        <a href="/teaching.html" class="hover:underline">Teaching</a>
+        <span>&bull;</span>
+        <a href="https://www.linkedin.com/company/iust-data-mining-lab/" target="_blank" rel="noopener noreferrer" class="hover:underline text-[#0a66c2]">DML LinkedIn</a>
+        <span>&bull;</span>
+        <a href="/contact.html" class="hover:underline">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module">
+    import studentsData from '/src/data/students.json';
+
+    // Helper for avatar/monogram
+    function getAvatarHtml(name, image, size = 'w-11 h-11', textClass = 'text-xs') {
+      if (image) {
+        return `<img src="${image}" alt="${name}" class="${size} rounded-full object-cover border border-gray-200 shrink-0">`;
+      }
+      const initials = name.split(' ').map(n => n[0]).join('').slice(0, 2);
+      return `<div class="${size} rounded-full bg-slate-100 text-slate-700 font-semibold ${textClass} flex items-center justify-center border border-slate-300/80 shrink-0 font-mono tracking-tight">${initials}</div>`;
+    }
+
+    // Unified Card Generator for any student
+    function createStudentCard(s, isAlumni = false) {
+      const isPhd = s.degree && s.degree.includes('Ph.D.');
+      const badgeColor = isAlumni 
+        ? 'bg-emerald-50 text-emerald-800 border-emerald-200' 
+        : (isPhd ? 'bg-blue-50 text-blue-800 border-blue-200' : 'bg-slate-100 text-slate-800 border-slate-200');
+
+      const linkedinBtn = s.linkedin ? `
+        <a href="${s.linkedin}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1 text-[11px] font-mono text-blue-700 hover:text-blue-900 hover:underline shrink-0" title="LinkedIn Profile">
+          <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.6a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34z"/></svg>
+          <span>LinkedIn &rarr;</span>
+        </a>
+      ` : '';
+
+      return `
+        <div class="p-4 border border-gray-200 rounded-lg bg-white flex gap-3.5 items-start hover:border-gray-300 transition-colors shadow-sm">
+          ${getAvatarHtml(s.name, s.image, 'w-11 h-11', 'text-xs')}
+          <div class="flex-1 min-w-0 space-y-1.5">
+            <div class="flex items-start justify-between gap-2">
+              <span class="font-bold text-gray-900 text-sm leading-snug">${s.name}</span>
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded font-medium border shrink-0 ${badgeColor}">
+                ${s.degree}
+              </span>
+            </div>
+            
+            <div class="text-[11px] text-gray-500 font-mono">
+              ${s.program ? `<span>${s.program}</span>` : ''}
+              ${s.year ? `<span class="text-gray-400"> &bull; ${s.year}</span>` : ''}
+            </div>
+
+            ${s.topic 
+              ? `<div class="text-xs text-gray-700 leading-snug pt-0.5"><span class="font-semibold text-gray-900">${isAlumni ? 'Defended Thesis' : 'Thesis Focus'}:</span> "${s.topic}"</div>` 
+              : `<div class="text-xs text-gray-400 italic pt-0.5">Topic in formulation</div>`
+            }
+
+            <div class="flex items-center justify-between pt-1 gap-2">
+              ${s.mentor ? `<div class="text-[11px] text-gray-500 truncate"><span class="text-gray-400">Advisor/Mentor:</span> ${s.mentor}</div>` : '<div></div>'}
+              ${linkedinBtn}
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    // Render Active Students
+    const activeGrid = document.getElementById('active-students-grid');
+    const activeCount = document.getElementById('active-count');
+    const searchInput = document.getElementById('student-search');
+
+    let currentFilter = 'all'; // 'all', 'phd', 'msc'
+    let currentSearch = '';
+
+    function renderActiveList() {
+      if (!studentsData.active || studentsData.active.length === 0) {
+        activeGrid.innerHTML = `<div class="col-span-2 text-center py-8 text-gray-400 italic">No advisees listed.</div>`;
+        return;
+      }
+
+      let filtered = studentsData.active;
+
+      // Filter by degree
+      if (currentFilter === 'phd') {
+        filtered = filtered.filter(s => s.degree && s.degree.includes('Ph.D.'));
+      } else if (currentFilter === 'msc') {
+        filtered = filtered.filter(s => s.degree && s.degree.includes('M.Sc.'));
+      }
+
+      // Filter by search
+      if (currentSearch) {
+        const q = currentSearch.toLowerCase();
+        filtered = filtered.filter(s => 
+          (s.name && s.name.toLowerCase().includes(q)) ||
+          (s.topic && s.topic.toLowerCase().includes(q)) ||
+          (s.mentor && s.mentor.toLowerCase().includes(q)) ||
+          (s.program && s.program.toLowerCase().includes(q))
+        );
+      }
+
+      activeCount.textContent = `(${filtered.length} of ${studentsData.active.length})`;
+
+      if (filtered.length === 0) {
+        activeGrid.innerHTML = `<div class="col-span-2 text-center py-8 text-gray-400 italic border border-dashed border-gray-200 rounded-lg">No matching advisees found.</div>`;
+        return;
+      }
+
+      activeGrid.innerHTML = filtered.map(s => createStudentCard(s, false)).join('');
+    }
+
+    // Render Alumni Grid
+    const alumniGrid = document.getElementById('alumni-grid');
+    if (alumniGrid && studentsData.alumni) {
+      alumniGrid.innerHTML = studentsData.alumni.map(s => createStudentCard(s, true)).join('');
+    }
+
+    // Filter Buttons
+    const filterButtons = {
+      all: document.getElementById('filter-all'),
+      phd: document.getElementById('filter-phd'),
+      msc: document.getElementById('filter-msc')
+    };
+
+    function setActiveFilterBtn(selected) {
+      Object.keys(filterButtons).forEach(key => {
+        const btn = filterButtons[key];
+        if (key === selected) {
+          btn.className = 'degree-filter-btn px-2.5 py-1 rounded bg-white text-gray-900 font-semibold shadow-sm';
+        } else {
+          btn.className = 'degree-filter-btn px-2.5 py-1 rounded text-gray-600 hover:text-gray-900';
+        }
+      });
+    }
+
+    if (filterButtons.all) {
+      filterButtons.all.addEventListener('click', () => {
+        currentFilter = 'all';
+        setActiveFilterBtn('all');
+        renderActiveList();
+      });
+    }
+
+    if (filterButtons.phd) {
+      filterButtons.phd.addEventListener('click', () => {
+        currentFilter = 'phd';
+        setActiveFilterBtn('phd');
+        renderActiveList();
+      });
+    }
+
+    if (filterButtons.msc) {
+      filterButtons.msc.addEventListener('click', () => {
+        currentFilter = 'msc';
+        setActiveFilterBtn('msc');
+        renderActiveList();
+      });
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        currentSearch = e.target.value.trim();
+        renderActiveList();
+      });
+    }
+
+    // Historical Defended Theses Cards State & Renderer
+    const historicalContainer = document.getElementById('historical-cards-container');
+    const historicalSearch = document.getElementById('historical-search');
+    const historicalCount = document.getElementById('historical-count');
+    const loadMoreHistBtn = document.getElementById('historical-load-more');
+    const showAllHistBtn = document.getElementById('historical-show-all');
+    const histBadgeCount = document.getElementById('historical-badge-count');
+    const histBtnGroup = document.getElementById('historical-btn-group');
+    const histChips = document.querySelectorAll('.hist-chip');
+
+    let histLimit = 12;
+    let histInstFilter = 'all';
+    let histSearchQuery = '';
+
+    function createHistoricalCard(h) {
+      return `
+        <div class="p-4 bg-white border border-gray-200/90 rounded-lg hover:border-blue-300 hover:shadow-xs transition-all flex flex-col justify-between space-y-2.5">
+          <div class="space-y-1.5">
+            <div class="flex items-start justify-between gap-2">
+              <span class="font-bold text-gray-900 text-xs sm:text-sm leading-snug">${h.name}</span>
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-slate-50 text-slate-700 font-medium shrink-0 border border-slate-200">
+                ${h.years || 'Alumnus'}
+              </span>
+            </div>
+            <div class="text-[11px] text-gray-500 font-mono flex flex-wrap items-center gap-1.5">
+              <span class="font-semibold text-gray-700">${h.institution || 'IUST'}</span>
+              ${h.program ? `<span class="text-gray-300">&bull;</span><span>${h.program}</span>` : ''}
+            </div>
+          </div>
+          <div class="text-xs text-gray-700 leading-snug pt-2 border-t border-gray-100 flex items-start gap-1.5">
+            <span class="text-blue-600 font-bold shrink-0">&ldquo;</span>
+            <span class="flex-1">
+              ${h.topic ? `<span class="text-gray-900 font-normal">${h.topic}</span>` : '<span class="text-gray-400 italic">M.Sc. Defended Thesis</span>'}
+            </span>
+            <span class="text-blue-600 font-bold shrink-0">&rdquo;</span>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderHistoricalCatalog() {
+      if (!studentsData.historical_alumni) return;
+
+      let filtered = studentsData.historical_alumni;
+
+      // Filter by institution
+      if (histInstFilter !== 'all') {
+        if (histInstFilter === 'other') {
+          filtered = filtered.filter(h => 
+            !['iust', 'qom university', 'shiraz university'].includes((h.institution || '').toLowerCase().trim())
+          );
+        } else {
+          filtered = filtered.filter(h => 
+            (h.institution || '').toLowerCase().includes(histInstFilter.toLowerCase())
+          );
+        }
+      }
+
+      // Filter by search query
+      if (histSearchQuery) {
+        const q = histSearchQuery.toLowerCase();
+        filtered = filtered.filter(h => 
+          (h.name && h.name.toLowerCase().includes(q)) ||
+          (h.topic && h.topic.toLowerCase().includes(q)) ||
+          (h.institution && h.institution.toLowerCase().includes(q)) ||
+          (h.program && h.program.toLowerCase().includes(q)) ||
+          (h.years && h.years.toLowerCase().includes(q))
+        );
+      }
+
+      const totalMatched = filtered.length;
+      if (histBadgeCount) {
+        histBadgeCount.textContent = `(${totalMatched} Theses)`;
+      }
+
+      if (totalMatched === 0) {
+        historicalContainer.innerHTML = `
+          <div class="col-span-1 md:col-span-2 text-center py-8 text-gray-400 italic border border-dashed border-gray-200 rounded-lg bg-gray-50">
+            No historical theses match your filter query.
+          </div>
+        `;
+        historicalCount.textContent = `Showing 0 of ${totalMatched} historical theses`;
+        histBtnGroup.style.display = 'none';
+        return;
+      }
+
+      // Pagination slice
+      const isFiltered = histSearchQuery || histInstFilter !== 'all';
+      const visibleItems = isFiltered ? filtered : filtered.slice(0, histLimit);
+
+      historicalContainer.innerHTML = visibleItems.map(createHistoricalCard).join('');
+      historicalCount.textContent = `Showing ${visibleItems.length} of ${totalMatched} historical theses`;
+
+      // Toggle pagination buttons
+      if (visibleItems.length >= totalMatched) {
+        histBtnGroup.style.display = 'none';
+      } else {
+        histBtnGroup.style.display = 'flex';
+      }
+    }
+
+    if (studentsData.historical_alumni) {
+      renderHistoricalCatalog();
+
+      // Search event
+      if (historicalSearch) {
+        historicalSearch.addEventListener('input', (e) => {
+          histSearchQuery = e.target.value.trim();
+          renderHistoricalCatalog();
+        });
+      }
+
+      // Chip filters
+      histChips.forEach(chip => {
+        chip.addEventListener('click', () => {
+          histChips.forEach(c => {
+            c.className = 'hist-chip px-2.5 py-1 rounded bg-gray-100 text-gray-700 hover:bg-gray-200';
+          });
+          chip.className = 'hist-chip px-2.5 py-1 rounded bg-gray-900 text-white font-semibold shadow-2xs';
+          histInstFilter = chip.getAttribute('data-inst');
+          renderHistoricalCatalog();
+        });
+      });
+
+      // Pagination events
+      if (loadMoreHistBtn) {
+        loadMoreHistBtn.addEventListener('click', () => {
+          histLimit += 12;
+          renderHistoricalCatalog();
+        });
+      }
+
+      if (showAllHistBtn) {
+        showAllHistBtn.addEventListener('click', () => {
+          histLimit = 999;
+          renderHistoricalCatalog();
+        });
+      }
+    }
+
+    // Initial render
+    renderActiveList();
+  </script>
+</body>
+</html>
