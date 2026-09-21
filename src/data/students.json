@@ -45,7 +45,7 @@
       "degree": "Ph.D. Candidate",
       "program": "Computer Engineering",
       "year": "",
-      "mentor": "Dr. Seyed Saeed Hosseini & Prof. Minaei",
+      "mentor": "Dr. Saeid Hosseini & Prof. Minaei",
       "topic": "Argumentation Mining",
       "image": "",
       "linkedin": ""
@@ -55,7 +55,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1402 (2023)",
-      "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
+      "mentor": "Dr. Zohreh Moteshaker & Prof. Minaei",
       "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
       "image": "./images/people/arefe_rajabian.jpg",
       "linkedin": "https://www.linkedin.com/in/arefe-rajabian-43aa41178/"
@@ -75,7 +75,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1402 (2023)",
-      "mentor": "Dr. Ghafoori & Prof. Minaei",
+      "mentor": "Dr. Ghafouri & Prof. Minaei",
       "topic": "A Hybrid Method Based on Graph Neural Networks and LLMs for Multi-Hop QA Accuracy Improvement",
       "image": "",
       "linkedin": "https://www.linkedin.com/in/negin-karimi/"
@@ -85,7 +85,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "Entering 1402 (2023)",
-      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "mentor": "Dr. Amoozegar & Prof. Minaei",
       "topic": "",
       "image": "./images/people/somayeh_rezaei.jpg",
       "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
@@ -125,7 +125,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "Entering 1403 (2024)",
-      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "mentor": "Dr. Amoozegar & Prof. Minaei",
       "topic": "Anomaly Detection in Medical Images Based on Deep Unfolding Algorithms",
       "image": "./images/people/aida_khaleghi.jpg",
       "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
@@ -175,7 +175,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Investigation of Inference Paradigms in Multimodal Reasoning",
       "image": "./images/people/ali_aghaei.jpg",
       "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
@@ -185,7 +185,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Enhancing Reliability in Multimodal AI-Driven Software Systems through a Chain-of-Thought Reasoning Architecture",
       "image": "./images/people/pooya_kavosh.jpg",
       "linkedin": "https://www.linkedin.com/in/pooya-kavosh-a0063229b/"
@@ -195,7 +195,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Utilizing Small Language Models for Intelligent Information Retrieval in Visually Rich Documents (VRD)",
       "image": "./images/people/mohammadhossein_karimi.jpg",
       "linkedin": ""
@@ -205,7 +205,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Investigation of Late-Interaction Methods for Multimodal Document Retrieval",
       "image": "./images/people/amirhossein_bagheri.jpg",
       "linkedin": ""
@@ -215,7 +215,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "A Systematic Review of Cost-Effective and Simplified Graph Construction Methods in GraphRAG Systems",
       "image": "./images/people/mohammad_bakhtiari.jpeg",
       "linkedin": "https://www.linkedin.com/in/mohammad-bakhtiary-bb855038a/"
@@ -225,7 +225,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "World Models in Multimodal AI: A Survey on Reasoning and Planning in Latent Space",
       "image": "./images/people/amirhosein_karami.jpg",
       "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
@@ -235,7 +235,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi, Dr. Shahbazi & Prof. Minaei",
       "topic": "Enhancing Knowledge Graph-Based Retrieval-Augmented Generation via Reinforcement Learning",
       "image": "./images/people/mohadeseh_emadi.jpeg",
       "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413/"
@@ -245,7 +245,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Study of Methods for User Representation in Personalized Text Classification",
       "image": "./images/people/kian_omoomi.jpg",
       "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
@@ -255,7 +255,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
       "image": "./images/people/alireza_mohammadi.jpg",
       "linkedin": "https://www.linkedin.com/in/alirezamohammadiii/"
@@ -265,7 +265,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Multimodal Graph-Based Retrieval-Augmented Generation Systems: Architectures, Challenges, and Applications",
       "image": "",
       "linkedin": ""
@@ -275,7 +275,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "Entering 1404 (2025)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "A Hybrid Approach Combining Traditional Reasoners and Graph-Based Language Models for Validation and Consistency Checking in the Semantic Web",
       "image": "./images/people/maryam_mortazavi.jpg",
       "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246/"
@@ -317,7 +317,7 @@
       "degree": "M.Sc. (Defended)",
       "program": "E-Commerce",
       "year": "Entering 1401 (2022)",
-      "mentor": "Dr. Shenasa & Prof. Minaei",
+      "mentor": "Dr. Shenassa & Prof. Minaei",
       "topic": "Title Generation",
       "image": "",
       "linkedin": ""
@@ -327,7 +327,7 @@
       "degree": "M.Sc. (Defended)",
       "program": "Artificial Intelligence",
       "year": "Entering 1401 (2022)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Enhancing Entity Linking Based on the Explorer-Reader Paradigm",
       "image": "./images/people/peyman_attarsayah.jpg",
       "linkedin": "https://www.linkedin.com/in/peyman-attarsayah/"
@@ -875,7 +875,7 @@
       "degree": "Ph.D. Candidate",
       "program": "Computer Engineering",
       "year": "",
-      "mentor": "Dr. Seyed Saeed Hosseini & Prof. Minaei",
+      "mentor": "Dr. Saeid Hosseini & Prof. Minaei",
       "topic": "Argumentation Mining",
       "image": "",
       "linkedin": ""
@@ -887,7 +887,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2023 (1402)",
-      "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
+      "mentor": "Dr. Zohreh Moteshaker & Prof. Minaei",
       "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
       "image": "./images/people/arefe_rajabian.jpg",
       "linkedin": ""
@@ -907,7 +907,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2023 (1402)",
-      "mentor": "Dr. Ghafoori & Prof. Minaei",
+      "mentor": "Dr. Ghafouri & Prof. Minaei",
       "topic": "A Hybrid Method Based on Graph Neural Networks and LLMs for Multi-Hop QA Accuracy Improvement",
       "image": "",
       "linkedin": ""
@@ -917,7 +917,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "2023 (1402)",
-      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "mentor": "Dr. Amoozegar & Prof. Minaei",
       "topic": "",
       "image": "",
       "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
@@ -957,7 +957,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "2024 (1403)",
-      "mentor": "Dr. Amouzgar & Prof. Minaei",
+      "mentor": "Dr. Amoozegar & Prof. Minaei",
       "topic": "Medical Image Anomaly Detection via Deep Unrolled Algorithms",
       "image": "./images/people/aida_khaleghi.jpg",
       "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
@@ -1007,7 +1007,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "",
       "image": "./images/people/ali_aghaei.jpg",
       "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
@@ -1017,7 +1017,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Enhancing Reliability in Multimodal AI-Driven Software Systems through a Chain-of-Thought Reasoning Architecture",
       "image": "./images/people/pooya_kavosh.jpg",
       "linkedin": "https://www.linkedin.com/in/pooyakavosh/"
@@ -1027,7 +1027,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "",
       "image": "./images/people/mohammadhossein_karimi.jpg",
       "linkedin": ""
@@ -1037,7 +1037,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "",
       "image": "./images/people/amirhossein_bagheri.jpg",
       "linkedin": ""
@@ -1047,7 +1047,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "A Systematic Review of Cost-Effective and Simplified Graph Construction Methods in GraphRAG Systems",
       "image": "",
       "linkedin": ""
@@ -1057,7 +1057,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "",
       "image": "./images/people/amirhosein_karami.jpg",
       "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
@@ -1067,7 +1067,7 @@
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi, Dr. Shahbazi & Prof. Minaei",
       "topic": "",
       "image": "./images/people/mohadeseh_emadi.jpeg",
       "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413"
@@ -1077,7 +1077,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Study of Methods for User Representation in Personalized Text Classification",
       "image": "./images/people/kian_omoomi.jpg",
       "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
@@ -1087,7 +1087,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
       "image": "./images/people/alireza_mohammadi.jpg",
       "linkedin": "https://linkedin.com/in/alirezamohammadiii"
@@ -1097,7 +1097,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "",
       "image": "",
       "linkedin": ""
@@ -1107,7 +1107,7 @@
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
       "year": "2025 (1404)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "mentor": "Dr. Majid Asgari-Bidhendi & Prof. Minaei",
       "topic": "Consistency checking in semantic web",
       "image": "./images/people/maryam_mortazavi.jpg",
       "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246"
