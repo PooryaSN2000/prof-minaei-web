@@ -13,7 +13,7 @@
     <div class="max-w-4xl mx-auto px-4 sm:px-6">
       <div class="flex flex-col sm:flex-row sm:items-baseline justify-between gap-2 mb-4">
         <div>
-          <a href="/index.html" class="text-2xl font-bold text-gray-900 hover:text-blue-700 transition-colors">
+          <a href="./index.html" class="text-2xl font-bold text-gray-900 hover:text-blue-700 transition-colors">
             Behrouz Minaei-Bidgoli
           </a>
           <div class="text-sm text-gray-600 font-medium mt-0.5">
@@ -24,12 +24,12 @@
       </div>
 
       <nav class="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-medium border-t border-gray-100 pt-3">
-        <a href="/index.html" class="text-gray-600 hover:text-blue-700">Home</a>
-        <a href="/biography.html" class="text-gray-600 hover:text-blue-700">Biography</a>
-        <a href="/publications.html" class="text-gray-600 hover:text-blue-700">Publications</a>
-        <a href="/teaching.html" class="text-gray-600 hover:text-blue-700">Teaching</a>
-        <a href="/students.html" class="text-blue-700 font-bold">Students &amp; Alumni</a>
-        <a href="/contact.html" class="text-gray-600 hover:text-blue-700">Contact</a>
+        <a href="./index.html" class="text-gray-600 hover:text-blue-700">Home</a>
+        <a href="./biography.html" class="text-gray-600 hover:text-blue-700">Biography</a>
+        <a href="./publications.html" class="text-gray-600 hover:text-blue-700">Publications</a>
+        <a href="./teaching.html" class="text-gray-600 hover:text-blue-700">Teaching</a>
+        <a href="./students.html" class="text-blue-700 font-bold">Students &amp; Alumni</a>
+        <a href="./contact.html" class="text-gray-600 hover:text-blue-700">Contact</a>
         <a href="http://dml.iust.ac.ir/" target="_blank" class="text-gray-500 hover:text-gray-800 text-xs">Data Mining Lab (DML) &rarr;</a>
         <a href="https://www.linkedin.com/company/iust-data-mining-lab/" target="_blank" rel="noopener noreferrer" class="text-[#0a66c2] hover:underline text-xs flex items-center gap-1 font-semibold">
           <svg class="w-3 h-3 fill-current" viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.6a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34z"/></svg>
@@ -195,17 +195,17 @@
     <div class="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
       <div>&copy; 2026 Prof. Behrouz Minaei-Bidgoli &bull; School of Computer Engineering, IUST.</div>
       <div class="flex items-center gap-4">
-        <a href="/index.html" class="hover:underline">Home</a>
+        <a href="./index.html" class="hover:underline">Home</a>
         <span>&bull;</span>
-        <a href="/biography.html" class="hover:underline">Biography</a>
+        <a href="./biography.html" class="hover:underline">Biography</a>
         <span>&bull;</span>
-        <a href="/publications.html" class="hover:underline">Publications</a>
+        <a href="./publications.html" class="hover:underline">Publications</a>
         <span>&bull;</span>
-        <a href="/teaching.html" class="hover:underline">Teaching</a>
+        <a href="./teaching.html" class="hover:underline">Teaching</a>
         <span>&bull;</span>
         <a href="https://www.linkedin.com/company/iust-data-mining-lab/" target="_blank" rel="noopener noreferrer" class="hover:underline text-[#0a66c2]">DML LinkedIn</a>
         <span>&bull;</span>
-        <a href="/contact.html" class="hover:underline">Contact</a>
+        <a href="./contact.html" class="hover:underline">Contact</a>
       </div>
     </div>
   </footer>
@@ -216,7 +216,8 @@
     // Helper for avatar/monogram
     function getAvatarHtml(name, image, size = 'w-11 h-11', textClass = 'text-xs') {
       if (image) {
-        return `<img src="${image}" alt="${name}" class="${size} rounded-full object-cover border border-gray-200 shrink-0">`;
+        const imgSrc = image.startsWith('/') ? '.' + image : image;
+        return `<img src="${imgSrc}" alt="${name}" class="${size} rounded-full object-cover border border-gray-200 shrink-0">`;
       }
       const initials = name.split(' ').map(n => n[0]).join('').slice(0, 2);
       return `<div class="${size} rounded-full bg-slate-100 text-slate-700 font-semibold ${textClass} flex items-center justify-center border border-slate-300/80 shrink-0 font-mono tracking-tight">${initials}</div>`;

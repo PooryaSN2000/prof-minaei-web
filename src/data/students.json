@@ -7,7 +7,7 @@
       "year": "2025 (1404)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
-      "image": "/images/people/alireza_ghasemi.jpeg",
+      "image": "./images/people/alireza_ghasemi.jpeg",
       "linkedin": "https://www.linkedin.com/in/alireza-ghasemi-b33882297/"
     },
     {
@@ -17,7 +17,7 @@
       "year": "2025 (1404)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
-      "image": "/images/people/fateme_marefat.jpeg",
+      "image": "./images/people/fateme_marefat.jpeg",
       "linkedin": "https://www.linkedin.com/in/fateme-marefat-3786a5aa/"
     },
     {
@@ -37,7 +37,7 @@
       "year": "",
       "mentor": "Dr. Shahbazi & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/melika_saraf.jpeg",
+      "image": "./images/people/melika_saraf.jpeg",
       "linkedin": "https://www.linkedin.com/in/melika-sarraf/"
     },
     {
@@ -57,7 +57,7 @@
       "year": "2023 (1402)",
       "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
       "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
-      "image": "/images/people/arefe_rajabian.jpg",
+      "image": "./images/people/arefe_rajabian.jpg",
       "linkedin": ""
     },
     {
@@ -97,7 +97,7 @@
       "year": "2023 (1402)",
       "mentor": "Dr. Khademi & Prof. Minaei",
       "topic": "Unsupervised Entity Alignment in Knowledge Graph",
-      "image": "/images/people/zahra_amiri.jpg",
+      "image": "./images/people/zahra_amiri.jpg",
       "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
     },
     {
@@ -107,7 +107,7 @@
       "year": "2024 (1403)",
       "mentor": "Parham Rahimi & Prof. Minaei",
       "topic": "Reasoning-Aware Preference Optimization in Large Language Models",
-      "image": "/images/people/poorya_saneei.jpg",
+      "image": "./images/people/poorya_saneei.jpg",
       "linkedin": "https://www.linkedin.com/in/poorya-saneei/"
     },
     {
@@ -127,7 +127,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Amouzgar & Prof. Minaei",
       "topic": "Medical Image Anomaly Detection via Deep Unrolled Algorithms",
-      "image": "/images/people/aida_khaleghi.jpg",
+      "image": "./images/people/aida_khaleghi.jpg",
       "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
     },
     {
@@ -147,7 +147,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Mirarab & Prof. Minaei",
       "topic": "Analysis and Mitigation of Path Hallucination in Multi-Hop Reasoning of Knowledge Graph-Augmented Large Language Models",
-      "image": "/images/people/mahdi_aghababaei.jpg",
+      "image": "./images/people/mahdi_aghababaei.jpg",
       "linkedin": "https://www.linkedin.com/in/mahdi-aghababaei-5b250921a/"
     },
     {
@@ -157,7 +157,7 @@
       "year": "2024 (1403)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "VLMs in task planning in robotics",
-      "image": "/images/people/alireza_nazari.jpg",
+      "image": "./images/people/alireza_nazari.jpg",
       "linkedin": "https://www.linkedin.com/in/alireza-nazari-work/"
     },
     {
@@ -167,7 +167,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Ashtiani & Prof. Minaei",
       "topic": "Improving NPC's Behavior with Edge Computing",
-      "image": "/images/people/amirhossein_amin_moghaddam.jpeg",
+      "image": "./images/people/amirhossein_amin_moghaddam.jpeg",
       "linkedin": "https://www.linkedin.com/in/amirhossein-amin-moghaddam/"
     },
     {
@@ -177,7 +177,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/ali_aghaei.jpg",
+      "image": "./images/people/ali_aghaei.jpg",
       "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
     },
     {
@@ -187,7 +187,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Enhancing Reliability in Multimodal AI-Driven Software Systems through a Chain-of-Thought Reasoning Architecture",
-      "image": "/images/people/pooya_kavosh.jpg",
+      "image": "./images/people/pooya_kavosh.jpg",
       "linkedin": "https://www.linkedin.com/in/pooyakavosh/"
     },
     {
@@ -197,7 +197,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/mohammadhossein_karimi.jpg",
+      "image": "./images/people/mohammadhossein_karimi.jpg",
       "linkedin": ""
     },
     {
@@ -207,7 +207,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/amirhossein_bagheri.jpg",
+      "image": "./images/people/amirhossein_bagheri.jpg",
       "linkedin": ""
     },
     {
@@ -227,7 +227,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/amirhosein_karami.jpg",
+      "image": "./images/people/amirhosein_karami.jpg",
       "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
     },
     {
@@ -237,7 +237,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/mohadeseh_emadi.jpeg",
+      "image": "./images/people/mohadeseh_emadi.jpeg",
       "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413"
     },
     {
@@ -247,7 +247,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Study of Methods for User Representation in Personalized Text Classification",
-      "image": "/images/people/kian_omoomi.jpg",
+      "image": "./images/people/kian_omoomi.jpg",
       "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
     },
     {
@@ -257,7 +257,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
-      "image": "/images/people/alireza_mohammadi.jpg",
+      "image": "./images/people/alireza_mohammadi.jpg",
       "linkedin": "https://linkedin.com/in/alirezamohammadiii"
     },
     {
@@ -277,7 +277,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Consistency checking in semantic web",
-      "image": "/images/people/maryam_mortazavi.jpg",
+      "image": "./images/people/maryam_mortazavi.jpg",
       "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246"
     }
   ],
@@ -289,7 +289,7 @@
       "year": "2024 (1403)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
-      "image": "/images/people/mohammad_abdous.jpg",
+      "image": "./images/people/mohammad_abdous.jpg",
       "linkedin": "https://www.linkedin.com/in/mohammad-abdous/"
     },
     {
@@ -299,7 +299,7 @@
       "year": "2024 (1403)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
-      "image": "/images/people/mohammadamin_shahab.jpeg",
+      "image": "./images/people/mohammadamin_shahab.jpeg",
       "linkedin": "https://www.linkedin.com/in/mohammadamin-shahab-979824225/"
     },
     {
@@ -309,7 +309,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Enhancing Entity Linking Based on the Explorer-Reader Paradigm",
-      "image": "/images/people/peyman_attarsayah.jpg",
+      "image": "./images/people/peyman_attarsayah.jpg",
       "linkedin": ""
     },
     {
@@ -319,7 +319,7 @@
       "year": "2024 (1403)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "Knowledge Graph Completion via Permutation Contrastive Learning on Multimodal Embeddings",
-      "image": "/images/people/reza_alidoost.jpg",
+      "image": "./images/people/reza_alidoost.jpg",
       "linkedin": ""
     },
     {
@@ -329,7 +329,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Torabian & Prof. Minaei",
       "topic": "LLM Reasoning",
-      "image": "/images/people/mohammad_qafqazian.jpg",
+      "image": "./images/people/mohammad_qafqazian.jpg",
       "linkedin": ""
     },
     {
@@ -837,7 +837,7 @@
       "year": "2025 (1404)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
-      "image": "/images/people/alireza_ghasemi.jpeg",
+      "image": "./images/people/alireza_ghasemi.jpeg",
       "linkedin": "https://www.linkedin.com/in/alireza-ghasemi-b33882297/"
     },
     {
@@ -847,7 +847,7 @@
       "year": "2025 (1404)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
-      "image": "/images/people/fateme_marefat.jpeg",
+      "image": "./images/people/fateme_marefat.jpeg",
       "linkedin": "https://www.linkedin.com/in/fateme-marefat-3786a5aa/"
     },
     {
@@ -867,7 +867,7 @@
       "year": "",
       "mentor": "Dr. Shahbazi & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/melika_saraf.jpeg",
+      "image": "./images/people/melika_saraf.jpeg",
       "linkedin": "https://www.linkedin.com/in/melika-sarraf/"
     },
     {
@@ -889,7 +889,7 @@
       "year": "2023 (1402)",
       "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
       "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
-      "image": "/images/people/arefe_rajabian.jpg",
+      "image": "./images/people/arefe_rajabian.jpg",
       "linkedin": ""
     },
     {
@@ -929,7 +929,7 @@
       "year": "2023 (1402)",
       "mentor": "Dr. Khademi & Prof. Minaei",
       "topic": "Unsupervised Entity Alignment in Knowledge Graph",
-      "image": "/images/people/zahra_amiri.jpg",
+      "image": "./images/people/zahra_amiri.jpg",
       "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
     },
     {
@@ -939,7 +939,7 @@
       "year": "2024 (1403)",
       "mentor": "Parham Rahimi & Prof. Minaei",
       "topic": "Reasoning-Aware Preference Optimization in Large Language Models",
-      "image": "/images/people/poorya_saneei.jpg",
+      "image": "./images/people/poorya_saneei.jpg",
       "linkedin": "https://www.linkedin.com/in/poorya-saneei/"
     },
     {
@@ -959,7 +959,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Amouzgar & Prof. Minaei",
       "topic": "Medical Image Anomaly Detection via Deep Unrolled Algorithms",
-      "image": "/images/people/aida_khaleghi.jpg",
+      "image": "./images/people/aida_khaleghi.jpg",
       "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
     },
     {
@@ -979,7 +979,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Mirarab & Prof. Minaei",
       "topic": "Analysis and Mitigation of Path Hallucination in Multi-Hop Reasoning of Knowledge Graph-Augmented Large Language Models",
-      "image": "/images/people/mahdi_aghababaei.jpg",
+      "image": "./images/people/mahdi_aghababaei.jpg",
       "linkedin": "https://www.linkedin.com/in/mahdi-aghababaei-5b250921a/"
     },
     {
@@ -989,7 +989,7 @@
       "year": "2024 (1403)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "VLMs in task planning in robotics",
-      "image": "/images/people/alireza_nazari.jpg",
+      "image": "./images/people/alireza_nazari.jpg",
       "linkedin": "https://www.linkedin.com/in/alireza-nazari-work/"
     },
     {
@@ -999,7 +999,7 @@
       "year": "2024 (1403)",
       "mentor": "Dr. Ashtiani & Prof. Minaei",
       "topic": "Improving NPC's Behavior with Edge Computing",
-      "image": "/images/people/amirhossein_amin_moghaddam.jpeg",
+      "image": "./images/people/amirhossein_amin_moghaddam.jpeg",
       "linkedin": "https://www.linkedin.com/in/amirhossein-amin-moghaddam/"
     },
     {
@@ -1009,7 +1009,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/ali_aghaei.jpg",
+      "image": "./images/people/ali_aghaei.jpg",
       "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
     },
     {
@@ -1019,7 +1019,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Enhancing Reliability in Multimodal AI-Driven Software Systems through a Chain-of-Thought Reasoning Architecture",
-      "image": "/images/people/pooya_kavosh.jpg",
+      "image": "./images/people/pooya_kavosh.jpg",
       "linkedin": "https://www.linkedin.com/in/pooyakavosh/"
     },
     {
@@ -1029,7 +1029,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/mohammadhossein_karimi.jpg",
+      "image": "./images/people/mohammadhossein_karimi.jpg",
       "linkedin": ""
     },
     {
@@ -1039,7 +1039,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/amirhossein_bagheri.jpg",
+      "image": "./images/people/amirhossein_bagheri.jpg",
       "linkedin": ""
     },
     {
@@ -1059,7 +1059,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/amirhosein_karami.jpg",
+      "image": "./images/people/amirhosein_karami.jpg",
       "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
     },
     {
@@ -1069,7 +1069,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
       "topic": "",
-      "image": "/images/people/mohadeseh_emadi.jpeg",
+      "image": "./images/people/mohadeseh_emadi.jpeg",
       "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413"
     },
     {
@@ -1079,7 +1079,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Study of Methods for User Representation in Personalized Text Classification",
-      "image": "/images/people/kian_omoomi.jpg",
+      "image": "./images/people/kian_omoomi.jpg",
       "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
     },
     {
@@ -1089,7 +1089,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
-      "image": "/images/people/alireza_mohammadi.jpg",
+      "image": "./images/people/alireza_mohammadi.jpg",
       "linkedin": "https://linkedin.com/in/alirezamohammadiii"
     },
     {
@@ -1109,7 +1109,7 @@
       "year": "2025 (1404)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Consistency checking in semantic web",
-      "image": "/images/people/maryam_mortazavi.jpg",
+      "image": "./images/people/maryam_mortazavi.jpg",
       "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246"
     }
   ]
