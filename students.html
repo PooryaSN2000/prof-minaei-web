@@ -233,8 +233,10 @@
         </a>
       ` : '';
 
+      const studentSlug = s.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+
       return `
-        <div class="p-4 border border-gray-200 rounded-lg bg-white flex gap-3.5 items-start hover:border-gray-300 transition-colors shadow-sm">
+        <div id="${studentSlug}" class="p-4 border border-gray-200 rounded-lg bg-white flex gap-3.5 items-start hover:border-gray-300 transition-all shadow-sm scroll-mt-24">
           ${getAvatarHtml(s.name, s.image, 'w-11 h-11', 'text-xs')}
           <div class="flex-1 min-w-0 space-y-1.5">
             <div class="flex items-start justify-between gap-2">
@@ -502,8 +504,41 @@
       }
     }
 
+    // Hash scrolling and focus highlight for deep links
+    function handleHashScroll() {
+      if (window.location.hash) {
+        const targetId = decodeURIComponent(window.location.hash.substring(1));
+        let targetEl = document.getElementById(targetId);
+
+        // If card is hidden due to an active degree filter, reset filter to 'all'
+        if (!targetEl && currentFilter !== 'all') {
+          currentFilter = 'all';
+          if (filterButtons && filterButtons.all) {
+            Object.values(filterButtons).forEach(b => {
+              if (b) b.className = 'degree-filter-btn px-2.5 py-1 rounded text-gray-600 hover:text-gray-900';
+            });
+            filterButtons.all.className = 'degree-filter-btn px-2.5 py-1 rounded bg-white text-gray-900 font-semibold shadow-sm';
+          }
+          renderActiveList();
+          targetEl = document.getElementById(targetId);
+        }
+
+        if (targetEl) {
+          setTimeout(() => {
+            targetEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetEl.classList.add('ring-2', 'ring-blue-500', 'bg-blue-50/50');
+            setTimeout(() => {
+              targetEl.classList.remove('ring-2', 'ring-blue-500', 'bg-blue-50/50');
+            }, 2500);
+          }, 150);
+        }
+      }
+    }
+
     // Initial render
     renderActiveList();
+    handleHashScroll();
+    window.addEventListener('hashchange', handleHashScroll);
   </script>
 </body>
 </html>
