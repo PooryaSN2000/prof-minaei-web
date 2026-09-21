@@ -52,12 +52,12 @@
       </p>
     </div>
 
-    <!-- Active Advisees Section with Unified Styling -->
+    <!-- Active Graduate Researchers Section with Unified Styling -->
     <section class="space-y-6">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-gray-100 pb-3">
         <div>
           <div class="flex items-center gap-2">
-            <h2 class="text-lg font-bold text-gray-900">Current Advisees</h2>
+            <h2 class="text-lg font-bold text-gray-900">Current Graduate Researchers</h2>
             <span class="text-xs font-mono text-gray-400" id="active-count"></span>
           </div>
           <p class="text-xs text-gray-500 mt-0.5">Doctoral and Master's researchers conducting thesis investigations at DML.</p>
@@ -74,7 +74,7 @@
             <input 
               type="text" 
               id="student-search" 
-              placeholder="Search advisees..." 
+              placeholder="Search researchers..." 
               class="w-full px-3 py-1.5 text-xs bg-gray-50 border border-gray-300 rounded focus:bg-white focus:outline-none focus:border-blue-600 transition-colors"
             >
           </div>
@@ -279,7 +279,7 @@
 
     function renderActiveList() {
       if (!studentsData.active || studentsData.active.length === 0) {
-        activeGrid.innerHTML = `<div class="col-span-2 text-center py-8 text-gray-400 italic">No advisees listed.</div>`;
+        activeGrid.innerHTML = `<div class="col-span-2 text-center py-8 text-gray-400 italic">No researchers listed.</div>`;
         return;
       }
 
@@ -306,7 +306,7 @@
       activeCount.textContent = `(${filtered.length} of ${studentsData.active.length})`;
 
       if (filtered.length === 0) {
-        activeGrid.innerHTML = `<div class="col-span-2 text-center py-8 text-gray-400 italic border border-dashed border-gray-200 rounded-lg">No matching advisees found.</div>`;
+        activeGrid.innerHTML = `<div class="col-span-2 text-center py-8 text-gray-400 italic border border-dashed border-gray-200 rounded-lg">No matching researchers found.</div>`;
         return;
       }
 
