@@ -58,7 +58,7 @@
       "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
       "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
       "image": "./images/people/arefe_rajabian.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/arefe-rajabian-43aa41178/"
     },
     {
       "name": "Fatemeh Sotoudeh",
@@ -68,7 +68,7 @@
       "mentor": "Dr. Khademi & Prof. Minaei",
       "topic": "Improving Document Retrieval Based on Query-Document Matching using Keyphrases and Embeddings",
       "image": "",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/fatemeh-sotudeh-a2224b383/"
     },
     {
       "name": "Negin Karimi",
@@ -78,7 +78,7 @@
       "mentor": "Dr. Ghafoori & Prof. Minaei",
       "topic": "A Hybrid Method Based on Graph Neural Networks and LLMs for Multi-Hop QA Accuracy Improvement",
       "image": "",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/negin-karimi/"
     },
     {
       "name": "Somayyeh Rezaei",
@@ -98,7 +98,7 @@
       "mentor": "Dr. Khademi & Prof. Minaei",
       "topic": "Unsupervised Entity Alignment in Knowledge Graph",
       "image": "./images/people/zahra_amiri.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
     },
     {
       "name": "Poorya Sanei",
@@ -128,7 +128,7 @@
       "mentor": "Dr. Amouzgar & Prof. Minaei",
       "topic": "Anomaly Detection in Medical Images Based on Deep Unfolding Algorithms",
       "image": "./images/people/aida_khaleghi.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
     },
     {
       "name": "Nazanin Ahmadpour",
@@ -138,7 +138,7 @@
       "mentor": "Dr. Khademi & Prof. Minaei",
       "topic": "Intelligent Knowledge Graph Compression Preserving Structure and Semantics",
       "image": "",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/nazanin-ahmadpour/"
     },
     {
       "name": "Mehdi Aghababaei",
@@ -148,7 +148,7 @@
       "mentor": "Dr. Mirarab & Prof. Minaei",
       "topic": "Analysis and Mitigation of Path Hallucination in Multi-Hop Reasoning of Knowledge Graph-Augmented Large Language Models",
       "image": "./images/people/mahdi_aghababaei.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/mahdi-aghababaei-5b250921a/"
     },
     {
       "name": "Alireza Nazari",
@@ -158,7 +158,7 @@
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "VLMs in Task Planning in Robotics",
       "image": "./images/people/alireza_nazari.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/alireza-nazari-work/"
     },
     {
       "name": "Amirhossein Amin-Moghadam",
@@ -168,7 +168,7 @@
       "mentor": "Dr. Ashtiani & Prof. Minaei",
       "topic": "Improving NPC's Behavior with Edge Computing",
       "image": "./images/people/amirhossein_amin_moghaddam.jpeg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/amirhossein-amin-moghaddam/"
     },
     {
       "name": "Ali Aghaei",
@@ -178,7 +178,7 @@
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Investigation of Inference Paradigms in Multimodal Reasoning",
       "image": "./images/people/ali_aghaei.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
     },
     {
       "name": "Pouya Kavosh",
@@ -217,8 +217,8 @@
       "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "A Systematic Review of Cost-Effective and Simplified Graph Construction Methods in GraphRAG Systems",
-      "image": "",
-      "linkedin": ""
+      "image": "./images/people/mohammad_bakhtiari.jpeg",
+      "linkedin": "https://www.linkedin.com/in/mohammad-bakhtiary-bb855038a/"
     },
     {
       "name": "Amirhossein Karami",
@@ -228,7 +228,7 @@
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "World Models in Multimodal AI: A Survey on Reasoning and Planning in Latent Space",
       "image": "./images/people/amirhosein_karami.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
     },
     {
       "name": "Mohadeseh Emadi",
@@ -238,7 +238,7 @@
       "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
       "topic": "Enhancing Knowledge Graph-Based Retrieval-Augmented Generation via Reinforcement Learning",
       "image": "./images/people/mohadeseh_emadi.jpeg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413/"
     },
     {
       "name": "Kian Omoomi",
@@ -248,7 +248,7 @@
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Study of Methods for User Representation in Personalized Text Classification",
       "image": "./images/people/kian_omoomi.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
     },
     {
       "name": "Alireza Mohammadi",
@@ -258,7 +258,7 @@
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
       "image": "./images/people/alireza_mohammadi.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/alirezamohammadiii/"
     },
     {
       "name": "Fatemeh Yousefi",
@@ -278,7 +278,7 @@
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "A Hybrid Approach Combining Traditional Reasoners and Graph-Based Language Models for Validation and Consistency Checking in the Semantic Web",
       "image": "./images/people/maryam_mortazavi.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246/"
     }
   ],
   "alumni": [
