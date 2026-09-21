@@ -34,3 +34,21 @@
 .pub-item:last-child {
   border-bottom: none;
 }
+
+/* Centered footer nav with attached bullet separator */
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem 0.85rem;
+}
+
+.footer-nav a:not(:last-child)::after {
+  content: "•";
+  margin-left: 0.85rem;
+  color: #d1d5db;
+  display: inline-block;
+  text-decoration: none !important;
+  pointer-events: none;
+}
