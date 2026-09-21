@@ -4,7 +4,7 @@
       "name": "Alireza Ghasemi",
       "degree": "Ph.D. Candidate",
       "program": "Computer Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
       "image": "./images/people/alireza_ghasemi.jpeg",
@@ -14,7 +14,7 @@
       "name": "Fatemeh Marefat",
       "degree": "Ph.D. Candidate",
       "program": "Computer Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
       "image": "./images/people/fateme_marefat.jpeg",
@@ -51,10 +51,20 @@
       "linkedin": ""
     },
     {
+      "name": "Mohammad Najafi",
+      "degree": "M.Sc. Student",
+      "program": "Game Development",
+      "year": "Entering 1402 (2023)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
       "name": "Arefeh Rajabian",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2023 (1402)",
+      "year": "Entering 1402 (2023)",
       "mentor": "Dr. Zohreh Motashaker & Prof. Minaei",
       "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
       "image": "./images/people/arefe_rajabian.jpg",
@@ -64,7 +74,7 @@
       "name": "Fatemeh Sotoudeh",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2023 (1402)",
+      "year": "Entering 1402 (2023)",
       "mentor": "Dr. Khademi & Prof. Minaei",
       "topic": "Improving Document Retrieval Based on Query-Document Matching using Keyphrases and Embeddings",
       "image": "",
@@ -74,7 +84,7 @@
       "name": "Negin Karimi",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2023 (1402)",
+      "year": "Entering 1402 (2023)",
       "mentor": "Dr. Ghafoori & Prof. Minaei",
       "topic": "A Hybrid Method Based on Graph Neural Networks and LLMs for Multi-Hop QA Accuracy Improvement",
       "image": "",
@@ -84,7 +94,7 @@
       "name": "Somayyeh Rezaei",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2023 (1402)",
+      "year": "Entering 1402 (2023)",
       "mentor": "Dr. Amouzgar & Prof. Minaei",
       "topic": "",
       "image": "",
@@ -94,17 +104,17 @@
       "name": "Zahra Amiri",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2023 (1402)",
+      "year": "Entering 1402 (2023)",
       "mentor": "Dr. Khademi & Prof. Minaei",
       "topic": "Unsupervised Entity Alignment in Knowledge Graph",
       "image": "./images/people/zahra_amiri.jpg",
-      "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
+      "linkedin": ""
     },
     {
       "name": "Poorya Sanei",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2024 (1403)",
+      "year": "Entering 1403 (2024)",
       "mentor": "Parham Rahimi & Prof. Minaei",
       "topic": "Reasoning-Aware Preference Optimization in Large Language Models",
       "image": "./images/people/poorya_saneei.jpg",
@@ -114,9 +124,9 @@
       "name": "Mohammadamin Haeri",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2024 (1403)",
+      "year": "Entering 1403 (2024)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
-      "topic": "Retrieval Performance Improvement in Retrieval-Augmented Generation",
+      "topic": "Improving Retrieval Performance in Retrieval-Augmented Generation Models",
       "image": "",
       "linkedin": ""
     },
@@ -124,79 +134,79 @@
       "name": "Aida Khaleghi",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2024 (1403)",
+      "year": "Entering 1403 (2024)",
       "mentor": "Dr. Amouzgar & Prof. Minaei",
-      "topic": "Medical Image Anomaly Detection via Deep Unrolled Algorithms",
+      "topic": "Anomaly Detection in Medical Images Based on Deep Unfolding Algorithms",
       "image": "./images/people/aida_khaleghi.jpg",
-      "linkedin": "https://www.linkedin.com/in/aidakhaleghi/"
+      "linkedin": ""
     },
     {
       "name": "Nazanin Ahmadpour",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2024 (1403)",
+      "year": "Entering 1403 (2024)",
       "mentor": "Dr. Khademi & Prof. Minaei",
-      "topic": "Semantic-Preserving Knowledge Graph Compression",
+      "topic": "Intelligent Knowledge Graph Compression Preserving Structure and Semantics",
       "image": "",
-      "linkedin": "https://www.linkedin.com/in/nazanin-ahmadpour/"
+      "linkedin": ""
     },
     {
       "name": "Mehdi Aghababaei",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2024 (1403)",
+      "year": "Entering 1403 (2024)",
       "mentor": "Dr. Mirarab & Prof. Minaei",
       "topic": "Analysis and Mitigation of Path Hallucination in Multi-Hop Reasoning of Knowledge Graph-Augmented Large Language Models",
       "image": "./images/people/mahdi_aghababaei.jpg",
-      "linkedin": "https://www.linkedin.com/in/mahdi-aghababaei-5b250921a/"
+      "linkedin": ""
     },
     {
       "name": "Alireza Nazari",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2024 (1403)",
+      "year": "Entering 1403 (2024)",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
-      "topic": "VLMs in task planning in robotics",
+      "topic": "VLMs in Task Planning in Robotics",
       "image": "./images/people/alireza_nazari.jpg",
-      "linkedin": "https://www.linkedin.com/in/alireza-nazari-work/"
+      "linkedin": ""
     },
     {
       "name": "Amirhossein Amin-Moghadam",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2024 (1403)",
+      "year": "Entering 1403 (2024)",
       "mentor": "Dr. Ashtiani & Prof. Minaei",
       "topic": "Improving NPC's Behavior with Edge Computing",
       "image": "./images/people/amirhossein_amin_moghaddam.jpeg",
-      "linkedin": "https://www.linkedin.com/in/amirhossein-amin-moghaddam/"
+      "linkedin": ""
     },
     {
       "name": "Ali Aghaei",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
-      "topic": "",
+      "topic": "Investigation of Inference Paradigms in Multimodal Reasoning",
       "image": "./images/people/ali_aghaei.jpg",
-      "linkedin": "https://www.linkedin.com/in/ali-aghaee/"
+      "linkedin": ""
     },
     {
       "name": "Pouya Kavosh",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Enhancing Reliability in Multimodal AI-Driven Software Systems through a Chain-of-Thought Reasoning Architecture",
       "image": "./images/people/pooya_kavosh.jpg",
-      "linkedin": "https://www.linkedin.com/in/pooyakavosh/"
+      "linkedin": "https://www.linkedin.com/in/pooya-kavosh-a0063229b/"
     },
     {
       "name": "Mohammad Hossein Karimi",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
-      "topic": "",
+      "topic": "Utilizing Small Language Models for Intelligent Information Retrieval in Visually Rich Documents (VRD)",
       "image": "./images/people/mohammadhossein_karimi.jpg",
       "linkedin": ""
     },
@@ -204,9 +214,9 @@
       "name": "Amirhossein Bagheri",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
-      "topic": "",
+      "topic": "Investigation of Late-Interaction Methods for Multimodal Document Retrieval",
       "image": "./images/people/amirhossein_bagheri.jpg",
       "linkedin": ""
     },
@@ -214,7 +224,7 @@
       "name": "Mohammad Bakhtiari",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "A Systematic Review of Cost-Effective and Simplified Graph Construction Methods in GraphRAG Systems",
       "image": "",
@@ -224,49 +234,49 @@
       "name": "Amirhossein Karami",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
-      "topic": "",
+      "topic": "World Models in Multimodal AI: A Survey on Reasoning and Planning in Latent Space",
       "image": "./images/people/amirhosein_karami.jpg",
-      "linkedin": "https://www.linkedin.com/in/amirhosseinkarami/"
+      "linkedin": ""
     },
     {
       "name": "Mohadeseh Emadi",
       "degree": "M.Sc. Student",
       "program": "Artificial Intelligence",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari, Dr. Shahbazi & Prof. Minaei",
-      "topic": "",
+      "topic": "Enhancing Knowledge Graph-Based Retrieval-Augmented Generation via Reinforcement Learning",
       "image": "./images/people/mohadeseh_emadi.jpeg",
-      "linkedin": "https://www.linkedin.com/in/mohaddeseh-emadi-a4648a413"
+      "linkedin": ""
     },
     {
       "name": "Kian Omoomi",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Study of Methods for User Representation in Personalized Text Classification",
       "image": "./images/people/kian_omoomi.jpg",
-      "linkedin": "https://www.linkedin.com/in/kian-omoomi/"
+      "linkedin": ""
     },
     {
       "name": "Alireza Mohammadi",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
       "topic": "Uncertainty-Aware Retrieval-Augmented Generation",
       "image": "./images/people/alireza_mohammadi.jpg",
-      "linkedin": "https://linkedin.com/in/alirezamohammadiii"
+      "linkedin": ""
     },
     {
       "name": "Fatemeh Yousefi",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
-      "topic": "",
+      "topic": "Multimodal Graph-Based Retrieval-Augmented Generation Systems: Architectures, Challenges, and Applications",
       "image": "",
       "linkedin": ""
     },
@@ -274,11 +284,11 @@
       "name": "Maryam Mortazavi Nik",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
-      "year": "2025 (1404)",
+      "year": "Entering 1404 (2025)",
       "mentor": "Dr. Majid Asgari & Prof. Minaei",
-      "topic": "Consistency checking in semantic web",
+      "topic": "A Hybrid Approach Combining Traditional Reasoners and Graph-Based Language Models for Validation and Consistency Checking in the Semantic Web",
       "image": "./images/people/maryam_mortazavi.jpg",
-      "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246"
+      "linkedin": ""
     }
   ],
   "alumni": [
@@ -286,47 +296,27 @@
       "name": "Mohammad Abdous",
       "degree": "Ph.D. Graduate",
       "program": "Computer Engineering",
-      "year": "2024 (1403)",
+      "year": "",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
       "image": "./images/people/mohammad_abdous.jpg",
-      "linkedin": "https://www.linkedin.com/in/mohammad-abdous/"
+      "linkedin": "https://www.linkedin.com/in/mohammad-abdous-1994/"
     },
     {
       "name": "Mohammadamin Shahab",
       "degree": "Ph.D. Graduate",
       "program": "Computer Engineering",
-      "year": "2024 (1403)",
+      "year": "",
       "mentor": "Prof. Behrouz Minaei-Bidgoli",
       "topic": "",
       "image": "./images/people/mohammadamin_shahab.jpeg",
-      "linkedin": "https://www.linkedin.com/in/mohammadamin-shahab-979824225/"
-    },
-    {
-      "name": "Peyman Attarsayah",
-      "degree": "M.Sc. (Defended)",
-      "program": "Artificial Intelligence",
-      "year": "2024 (1403)",
-      "mentor": "Dr. Majid Asgari & Prof. Minaei",
-      "topic": "Enhancing Entity Linking Based on the Explorer-Reader Paradigm",
-      "image": "./images/people/peyman_attarsayah.jpg",
-      "linkedin": ""
-    },
-    {
-      "name": "Reza Alidoust",
-      "degree": "M.Sc. (Defended)",
-      "program": "Artificial Intelligence",
-      "year": "2024 (1403)",
-      "mentor": "Prof. Behrouz Minaei-Bidgoli",
-      "topic": "Knowledge Graph Completion via Permutation Contrastive Learning on Multimodal Embeddings",
-      "image": "./images/people/reza_alidoost.jpg",
-      "linkedin": ""
+      "linkedin": "https://www.linkedin.com/in/mohammadamin-shahab/"
     },
     {
       "name": "Mohammad Qafqazian",
       "degree": "M.Sc. (Defended)",
       "program": "Software Engineering",
-      "year": "2024 (1403)",
+      "year": "Entering 1402 (2023)",
       "mentor": "Dr. Torabian & Prof. Minaei",
       "topic": "LLM Reasoning",
       "image": "./images/people/mohammad_qafqazian.jpg",
@@ -336,10 +326,30 @@
       "name": "Hanieh Nojabaee",
       "degree": "M.Sc. (Defended)",
       "program": "E-Commerce",
-      "year": "2023 (1402)",
+      "year": "Entering 1401 (2022)",
       "mentor": "Dr. Shenasa & Prof. Minaei",
       "topic": "Title Generation",
       "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Peyman Attarsayah",
+      "degree": "M.Sc. (Defended)",
+      "program": "Artificial Intelligence",
+      "year": "Entering 1401 (2022)",
+      "mentor": "Dr. Majid Asgari & Prof. Minaei",
+      "topic": "Enhancing Entity Linking Based on the Explorer-Reader Paradigm",
+      "image": "./images/people/peyman_attarsayah.jpg",
+      "linkedin": "https://www.linkedin.com/in/peyman-attarsayah/"
+    },
+    {
+      "name": "Reza Alidoust",
+      "degree": "M.Sc. (Defended)",
+      "program": "Artificial Intelligence",
+      "year": "Entering 1401 (2022)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "Knowledge Graph Completion via Permutation Contrastive Learning on Multimodal Embeddings",
+      "image": "./images/people/reza_alidoost.jpg",
       "linkedin": ""
     }
   ],
