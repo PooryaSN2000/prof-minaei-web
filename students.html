@@ -57,24 +57,27 @@
 
     <!-- Active Graduate Researchers Section with Unified Styling -->
     <section class="space-y-6">
-      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-gray-100 pb-3">
-        <div>
-          <div class="flex items-center gap-2">
-            <h2 class="text-lg font-bold text-gray-900">Current Researchers &amp; Graduate Students</h2>
-            <span class="text-xs font-mono text-gray-400" id="active-count"></span>
+      <div class="border-b border-gray-100 pb-3.5 space-y-3">
+        <!-- Title & Subtitle Row -->
+        <div class="flex flex-col sm:flex-row sm:items-baseline justify-between gap-1">
+          <div>
+            <div class="flex items-center gap-2 flex-wrap">
+              <h2 class="text-lg font-bold text-gray-900">Current Researchers &amp; Graduate Students</h2>
+              <span class="text-xs font-mono font-semibold text-blue-800 bg-blue-50 border border-blue-200/80 px-2 py-0.5 rounded-full shrink-0 whitespace-nowrap" id="active-count"></span>
+            </div>
+            <p class="text-xs text-gray-500 mt-0.5">Postdoctoral, doctoral, and master's researchers conducting investigations at DML.</p>
           </div>
-          <p class="text-xs text-gray-500 mt-0.5">Postdoctoral, doctoral, and master's researchers conducting investigations at DML.</p>
         </div>
 
-        <!-- Filter Buttons & Search -->
-        <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-2">
-          <div class="inline-flex rounded-md border border-gray-200 bg-gray-50 p-0.5 text-xs font-medium">
+        <!-- Filter Buttons & Search Controls -->
+        <div class="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-2.5 pt-0.5">
+          <div class="inline-flex rounded-md border border-gray-200 bg-gray-50 p-0.5 text-xs font-medium self-start sm:self-auto">
             <button id="filter-all" class="degree-filter-btn px-2.5 py-1 rounded bg-white text-gray-900 font-semibold shadow-sm">All</button>
             <button id="filter-postdoc" class="degree-filter-btn px-2.5 py-1 rounded text-gray-600 hover:text-gray-900">Postdoc</button>
             <button id="filter-phd" class="degree-filter-btn px-2.5 py-1 rounded text-gray-600 hover:text-gray-900">Ph.D.</button>
             <button id="filter-msc" class="degree-filter-btn px-2.5 py-1 rounded text-gray-600 hover:text-gray-900">M.Sc.</button>
           </div>
-          <div class="w-full sm:w-56">
+          <div class="w-full sm:w-64">
             <input 
               type="text" 
               id="student-search" 
