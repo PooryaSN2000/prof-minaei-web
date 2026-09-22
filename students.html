@@ -259,8 +259,8 @@
               : ''
             }
 
-            <div class="flex items-center justify-between pt-1 gap-2">
-              ${s.mentor ? `<div class="text-[11px] text-gray-500 truncate"><span class="text-gray-400">Advisor/Mentor:</span> ${s.mentor}</div>` : '<div></div>'}
+            <div class="flex items-start justify-between pt-1.5 gap-2 border-t border-gray-100 mt-1">
+              ${s.mentor ? `<div class="text-[11px] text-gray-600 leading-snug flex-1 min-w-0" title="${s.mentor}"><span class="text-gray-400 font-medium">Advisor/Mentor:</span> ${s.mentor}</div>` : '<div></div>'}
               ${linkedinBtn}
             </div>
           </div>
