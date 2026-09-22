@@ -1,8 +1,8 @@
-name: Sync Google Scholar Stats
+name: Sync Google Scholar
 
 on:
   schedule:
-    # Runs every Monday at midnight UTC
+    # Runs every Monday at 00:00 UTC
     - cron: '0 0 * * 1'
   workflow_dispatch:
 
@@ -30,5 +30,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/scholar_stats.json src/data/publications.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: sync Google Scholar stats [skip ci]"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: sync Google Scholar data" && git push)
