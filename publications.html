@@ -49,13 +49,16 @@
           Complete, verified academic repository containing 440+ articles synced directly with Google Scholar.
         </p>
       </div>
-      <a 
-        href="https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en" 
-        target="_blank" 
-        class="text-xs font-mono text-blue-700 hover:underline shrink-0 font-medium"
-      >
-        Google Scholar Profile (9,800+ Cites) &rarr;
-      </a>
+      <div class="flex flex-col sm:items-end gap-0.5 shrink-0 text-left sm:text-right">
+        <a 
+          href="https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en" 
+          target="_blank" 
+          class="text-xs font-mono text-blue-700 hover:underline font-medium"
+        >
+          Google Scholar Profile (9,800+ Cites) &rarr;
+        </a>
+        <span class="text-[11px] text-gray-400 font-mono" id="last-synced-badge">Synced from Google Scholar</span>
+      </div>
     </div>
 
     <!-- Annual Citations Growth Collapsible/Visualizer -->
@@ -244,6 +247,13 @@
         setTimeout(() => copyBtn.textContent = 'Copy to Clipboard', 2000);
       });
     };
+
+    if (scholarStats && scholarStats.last_synced) {
+      const syncedBadge = document.getElementById('last-synced-badge');
+      if (syncedBadge) {
+        syncedBadge.textContent = `Google Scholar (Synced: ${scholarStats.last_synced})`;
+      }
+    }
 
     // Render annual citation bars in details
     const pubCitationBars = document.getElementById('pub-citation-bars');
