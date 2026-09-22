@@ -30,16 +30,16 @@
   {
     "name": "Dr. Saeid Hosseini",
     "role": "Affiliated Researcher",
-    "image": "",
+    "image": "./images/people/saeid_hosseini.jpeg",
     "scholar": "https://scholar.google.com/citations?user=Q3DhDl0AAAAJ&hl=en",
     "linkedin": "https://www.linkedin.com/in/dr-saeid-hosseini-bsc-msc-phd-10689712/"
   },
   {
     "name": "Hossein Khademi",
     "role": "Affiliated Researcher",
-    "image": "",
+    "image": "./images/people/hossein_khademi.jpeg",
     "scholar": "",
-    "linkedin": ""
+    "linkedin": "https://www.linkedin.com/in/hosseinkhaledi/"
   },
   {
     "name": "Dr. Arash Ghafouri",
