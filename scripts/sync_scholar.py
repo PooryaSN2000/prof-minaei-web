@@ -13,8 +13,10 @@ Crawls:
 """
 
 import os
+import sys
 import json
 import urllib.request
+import urllib.error
 import re
 import html
 import time
@@ -128,11 +130,105 @@ def generate_bibtex(title, authors_str, venue, year, scholar_link):
     bib.append("}")
     return "\n".join(bib)
 
-def fetch_page(cstart=0, pagesize=100, sortby="pubdate"):
+def fetch_page(cstart=0, pagesize=100, sortby="pubdate", retries=3, initial_delay=3):
     url = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en&cstart={cstart}&pagesize={pagesize}&sortby={sortby}"
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=20) as response:
-        return response.read().decode('utf-8', errors='replace')
+    last_err = None
+    delay = initial_delay
+    for attempt in range(1, retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=25) as response:
+                content = response.read().decode('utf-8', errors='replace')
+                if "please show you're not a robot" in content.lower() or "/sorry/index" in content.lower():
+                    raise urllib.error.HTTPError(url, 429, "Google Scholar CAPTCHA / bot block detected", {}, None)
+                return content
+        except Exception as e:
+            last_err = e
+            print(f"   ⚠️ Attempt {attempt}/{retries} for cstart={cstart} failed: {e}")
+            if attempt < retries:
+                print(f"   ⏳ Waiting {delay}s before retrying...")
+                time.sleep(delay)
+                delay *= 2
+    raise last_err
+
+def save_data(publications, stats):
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    current_repo_dir = os.path.dirname(script_dir)
+    parent_dir = os.path.dirname(current_repo_dir)
+
+    target_dirs = [
+        os.path.join(current_repo_dir, "src", "data"),
+        os.path.join(parent_dir, "minaei-faculty", "src", "data"),
+        os.path.join(parent_dir, "dml-lab", "src", "data")
+    ]
+    seen_dirs = set()
+    destinations = []
+    for td in target_dirs:
+        norm = os.path.normpath(td)
+        if os.path.exists(norm) and norm not in seen_dirs:
+            seen_dirs.add(norm)
+            destinations.append(norm)
+
+    for d in destinations:
+        if not os.path.exists(d):
+            continue
+        pubs_path = os.path.join(d, "publications.json")
+        stats_path = os.path.join(d, "scholar_stats.json")
+        
+        with open(pubs_path, "w", encoding="utf-8") as f:
+            json.dump(publications, f, ensure_ascii=False, indent=2)
+            
+        with open(stats_path, "w", encoding="utf-8") as f:
+            json.dump(stats, f, ensure_ascii=False, indent=2)
+            
+        print(f"✅ Saved {pubs_path} ({len(publications)} categorized articles)")
+        print(f"✅ Saved {stats_path}")
+
+def get_sister_repo():
+    gh_repo = os.environ.get("GITHUB_REPOSITORY", "").strip().lower()
+    if "prof-minaei-web" in gh_repo:
+        return "PooryaSN2000/iust-dml-website"
+    elif "iust-dml-website" in gh_repo:
+        return "PooryaSN2000/prof-minaei-web"
+    
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    current_repo_name = os.path.basename(os.path.dirname(script_dir)).lower()
+    if "minaei" in current_repo_name:
+        return "PooryaSN2000/iust-dml-website"
+    else:
+        return "PooryaSN2000/prof-minaei-web"
+
+def fetch_from_sister_repo():
+    sister = get_sister_repo()
+    print(f"\n🔄 Attempting fallback: fetching pre-synced Scholar data from sister repo: {sister}...")
+    stats_url = f"https://raw.githubusercontent.com/{sister}/main/src/data/scholar_stats.json"
+    pubs_url = f"https://raw.githubusercontent.com/{sister}/main/src/data/publications.json"
+    
+    req_headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    try:
+        req_stats = urllib.request.Request(stats_url, headers=req_headers)
+        with urllib.request.urlopen(req_stats, timeout=20) as resp:
+            stats = json.loads(resp.read().decode('utf-8'))
+            
+        req_pubs = urllib.request.Request(pubs_url, headers=req_headers)
+        with urllib.request.urlopen(req_pubs, timeout=20) as resp:
+            pubs = json.loads(resp.read().decode('utf-8'))
+            
+        if not isinstance(pubs, list) or len(pubs) < 350:
+            print(f"❌ Fallback validation failed: publications count ({len(pubs) if isinstance(pubs, list) else 0}) is too low.")
+            return False
+        if not isinstance(stats, dict) or "citations" not in stats:
+            print("❌ Fallback validation failed: scholar_stats is invalid.")
+            return False
+            
+        print(f"✅ Fallback successful! Retrieved {len(pubs)} publications and citation stats from {sister}.")
+        print(f"   (Sister last_synced was: {stats.get('last_synced')})")
+        
+        save_data(pubs, stats)
+        return True
+    except Exception as e:
+        print(f"❌ Fallback from sister repo failed: {e}")
+        return False
 
 def sync():
     print(f"📡 Initiating comprehensive crawl of Google Scholar profile: {SCHOLAR_ID}...")
@@ -141,8 +237,8 @@ def sync():
     try:
         html_p1 = fetch_page(cstart=0, pagesize=100, sortby="pubdate")
     except Exception as e:
-        print(f"❌ Failed to fetch page 1: {e}")
-        return False
+        print(f"❌ Failed to fetch page 1 from Google Scholar: {e}")
+        return fetch_from_sister_repo()
 
     # Extract Citation Metrics Table
     stats = {}
@@ -175,8 +271,9 @@ def sync():
     print(f"   Batch 1 (0-100): {len(all_rows)} rows")
 
     cstart = 100
+    crawl_success = True
     while True:
-        time.sleep(1)
+        time.sleep(1.5)
         try:
             p_html = fetch_page(cstart=cstart, pagesize=100, sortby="pubdate")
             rows = re.findall(r'<tr class="gsc_a_tr">(.*?)</tr>', p_html, re.DOTALL)
@@ -188,8 +285,13 @@ def sync():
                 break
             cstart += 100
         except Exception as e:
-            print(f"   ⚠️ Error at cstart={cstart}: {e}")
+            print(f"   ❌ Unrecoverable error during pagination at cstart={cstart}: {e}")
+            crawl_success = False
             break
+
+    if not crawl_success or len(all_rows) < 350:
+        print(f"⚠️ Crawl interrupted or harvested insufficient rows ({len(all_rows)}). Aborting to avoid corrupting database.")
+        return fetch_from_sister_repo()
 
     print(f"📚 Total rows harvested: {len(all_rows)}")
 
@@ -248,38 +350,8 @@ def sync():
 
     stats["total_publications"] = len(parsed_publications)
 
-    # 4. Save to files in local repo and sibling project if present
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    current_repo_dir = os.path.dirname(script_dir)
-    parent_dir = os.path.dirname(current_repo_dir)
-
-    target_dirs = [
-        os.path.join(current_repo_dir, "src", "data"),
-        os.path.join(parent_dir, "minaei-faculty", "src", "data"),
-        os.path.join(parent_dir, "dml-lab", "src", "data")
-    ]
-    seen_dirs = set()
-    destinations = []
-    for td in target_dirs:
-        norm = os.path.normpath(td)
-        if os.path.exists(norm) and norm not in seen_dirs:
-            seen_dirs.add(norm)
-            destinations.append(norm)
-
-    for d in destinations:
-        if not os.path.exists(d):
-            continue
-        pubs_path = os.path.join(d, "publications.json")
-        stats_path = os.path.join(d, "scholar_stats.json")
-        
-        with open(pubs_path, "w", encoding="utf-8") as f:
-            json.dump(parsed_publications, f, ensure_ascii=False, indent=2)
-            
-        with open(stats_path, "w", encoding="utf-8") as f:
-            json.dump(stats, f, ensure_ascii=False, indent=2)
-            
-        print(f"✅ Saved {pubs_path} ({len(parsed_publications)} categorized articles)")
-        print(f"✅ Saved {stats_path}")
+    # 4. Save to destinations
+    save_data(parsed_publications, stats)
 
     # Category Breakdown
     cat_counts = {}
@@ -293,4 +365,7 @@ def sync():
     return True
 
 if __name__ == "__main__":
-    sync()
+    success = sync()
+    if not success:
+        print("\n❌ CRITICAL: Google Scholar sync and sister-repo fallback both failed.")
+        sys.exit(1)
