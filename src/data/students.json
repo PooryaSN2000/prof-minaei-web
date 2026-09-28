@@ -351,6 +351,89 @@
       "topic": "Knowledge Graph Completion via Permutation Contrastive Learning on Multimodal Embeddings",
       "image": "./images/people/reza_alidoost.jpg",
       "linkedin": ""
+    },
+    {
+      "name": "Dr. Hamid Parvin",
+      "degree": "Ph.D. Graduate",
+      "program": "Computer Engineering",
+      "year": "2014",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "Ph.D. Defended Dissertation • Faculty Member at IUST",
+      "image": "",
+      "linkedin": "",
+      "webpage": "http://webpages.iust.ac.ir/parvin/"
+    },
+    {
+      "name": "Dr. Hossein Alizadeh",
+      "degree": "Ph.D. Graduate",
+      "program": "Computer Engineering",
+      "year": "2014",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "Ph.D. Defended Dissertation • Faculty Member at IUST",
+      "image": "",
+      "linkedin": "",
+      "webpage": "http://webpages.iust.ac.ir/halizadeh/"
+    },
+    {
+      "name": "Dr. Mahdi Nasiri",
+      "degree": "Ph.D. Graduate",
+      "program": "Computer Engineering",
+      "year": "2016",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "Ph.D. Defended Dissertation • Faculty Member at IUST",
+      "image": "",
+      "linkedin": "",
+      "webpage": "http://webpages.iust.ac.ir/nasiri_m/"
+    },
+    {
+      "name": "Babak Azad",
+      "degree": "M.Sc. Graduate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "M.Sc. Defended Thesis",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/babak-azad-b2035b65/"
+    },
+    {
+      "name": "Hamidreza Najafipour",
+      "degree": "M.Sc. Graduate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "M.Sc. Defended Thesis",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/hamidreza-nadjafipour-ab235766/"
+    },
+    {
+      "name": "Leila Oskooei",
+      "degree": "M.Sc. Graduate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "M.Sc. Defended Thesis",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/leila-oskooie-a156b690/"
+    },
+    {
+      "name": "Nasim Damirchi",
+      "degree": "M.Sc. Graduate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "M.Sc. Defended Thesis",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/nasimdamirchi/"
+    },
+    {
+      "name": "Zeinab Navidi",
+      "degree": "M.Sc. Graduate",
+      "program": "Computer Engineering",
+      "year": "",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "M.Sc. Defended Thesis",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/zeinab-navidi-32334954/?ppe=1"
     }
   ],
   "historical_alumni": [
@@ -787,6 +870,133 @@
       "institution": "IUST",
       "program": "Artificial Intelligence",
       "topic": "Data Mining in Insurance Industry"
+    },
+    {
+      "name": "Abdous M.",
+      "years": "2014-2016",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "M.Sc. Defended Thesis in Artificial Intelligence"
+    },
+    {
+      "name": "Maneian S. A.",
+      "years": "2011-2013",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "M.Sc. Defended Thesis in Artificial Intelligence"
+    },
+    {
+      "name": "Rafiei T.",
+      "years": "2012-2014",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "M.Sc. Defended Thesis in Artificial Intelligence"
+    },
+    {
+      "name": "Shakiba Z.",
+      "years": "2012-2015",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "M.Sc. Defended Thesis in Artificial Intelligence"
+    },
+    {
+      "name": "Bagheri M.",
+      "years": "2013-2015",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "3D Clustering for Recommender Systems"
+    },
+    {
+      "name": "Ala E.",
+      "years": "2012-2014",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "M.Sc. Defended Thesis in Artificial Intelligence"
+    },
+    {
+      "name": "Hadian A.",
+      "years": "2010-2012",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "Personalized Web Spam Detection and Removal"
+    },
+    {
+      "name": "Habibi M.S.",
+      "years": "2010-2013",
+      "institution": "IUST",
+      "program": "Software Engineering",
+      "topic": "M.Sc. Defended Thesis in Software Engineering"
+    },
+    {
+      "name": "Khallash M.",
+      "years": "2010-2012",
+      "institution": "IUST",
+      "program": "Artificial Intelligence",
+      "topic": "A mechanism for exploring of the effect of different morphologic and morphosyntactic features on Persian dependency parsing"
+    },
+    {
+      "name": "Babak Azad",
+      "years": "",
+      "institution": "IUST",
+      "program": "Computer Engineering (M.Sc.)",
+      "topic": "M.Sc. Defended Thesis",
+      "linkedin": "https://www.linkedin.com/in/babak-azad-b2035b65/"
+    },
+    {
+      "name": "Hamidreza Najafipour",
+      "years": "",
+      "institution": "IUST",
+      "program": "Computer Engineering (M.Sc.)",
+      "topic": "M.Sc. Defended Thesis",
+      "linkedin": "https://www.linkedin.com/in/hamidreza-nadjafipour-ab235766/"
+    },
+    {
+      "name": "Leila Oskooei",
+      "years": "",
+      "institution": "IUST",
+      "program": "Computer Engineering (M.Sc.)",
+      "topic": "M.Sc. Defended Thesis",
+      "linkedin": "https://www.linkedin.com/in/leila-oskooie-a156b690/"
+    },
+    {
+      "name": "Nasim Damirchi",
+      "years": "",
+      "institution": "IUST",
+      "program": "Computer Engineering (M.Sc.)",
+      "topic": "M.Sc. Defended Thesis",
+      "linkedin": "https://www.linkedin.com/in/nasimdamirchi/"
+    },
+    {
+      "name": "Zeinab Navidi",
+      "years": "",
+      "institution": "IUST",
+      "program": "Computer Engineering (M.Sc.)",
+      "topic": "M.Sc. Defended Thesis",
+      "linkedin": "https://www.linkedin.com/in/zeinab-navidi-32334954/?ppe=1"
+    },
+    {
+      "name": "Parvin H. (Dr.)",
+      "years": "2014",
+      "institution": "IUST",
+      "program": "Computer Engineering (Ph.D.)",
+      "topic": "Ph.D. Defended Dissertation • Faculty Member at IUST",
+      "webpage": "http://webpages.iust.ac.ir/parvin/"
+    },
+    {
+      "name": "Alizadeh H. (Dr.)",
+      "years": "2014",
+      "institution": "IUST",
+      "program": "Computer Engineering (Ph.D.)",
+      "topic": "Ph.D. Defended Dissertation • Faculty Member at IUST",
+      "webpage": "http://webpages.iust.ac.ir/halizadeh/"
+    },
+    {
+      "name": "Nasiri M. (Dr.)",
+      "years": "2016",
+      "institution": "IUST",
+      "program": "Computer Engineering (Ph.D.)",
+      "topic": "Ph.D. Defended Dissertation • Faculty Member at IUST",
+      "webpage": "http://webpages.iust.ac.ir/nasiri_m/"
     }
   ],
   "seminars": [
