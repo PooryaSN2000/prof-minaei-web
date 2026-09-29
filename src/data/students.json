@@ -323,14 +323,14 @@
       "linkedin": ""
     },
     {
-      "name": "Hanieh Nojabaee",
+      "name": "Hanieh Nojabaie",
       "degree": "M.Sc. (Defended)",
       "program": "E-Commerce",
       "year": "Entering 1401 (2022)",
       "mentor": "Dr. Shenassa & Prof. Minaei",
-      "topic": "Title Generation",
-      "image": "",
-      "linkedin": ""
+      "topic": "Hybrid Approach to Enhancing Persian Headline Generation Using Keywords and Language Model Training",
+      "image": "./images/people/hanieh_nojabaie.jpg",
+      "linkedin": "https://www.linkedin.com/in/hanieh-nojabaie/"
     },
     {
       "name": "Peyman Attarsayah",
