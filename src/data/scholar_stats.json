@@ -1,20 +1,20 @@
 {
   "citations": {
-    "all": 9886,
-    "since_recent": 4978
+    "all": 9917,
+    "since_recent": 5012
   },
   "h_index": {
     "all": 51,
     "since_recent": 34
   },
   "i10_index": {
-    "all": 171,
-    "since_recent": 96
+    "all": 172,
+    "since_recent": 98
   },
   "history": [
     {
       "year": 2005,
-      "citations": 56
+      "citations": 57
     },
     {
       "year": 2006,
@@ -30,7 +30,7 @@
     },
     {
       "year": 2009,
-      "citations": 104
+      "citations": 103
     },
     {
       "year": 2010,
@@ -46,7 +46,7 @@
     },
     {
       "year": 2013,
-      "citations": 308
+      "citations": 307
     },
     {
       "year": 2014,
@@ -58,19 +58,19 @@
     },
     {
       "year": 2016,
-      "citations": 436
+      "citations": 434
     },
     {
       "year": 2017,
-      "citations": 374
+      "citations": 373
     },
     {
       "year": 2018,
-      "citations": 439
+      "citations": 440
     },
     {
       "year": 2019,
-      "citations": 623
+      "citations": 622
     },
     {
       "year": 2020,
@@ -86,22 +86,22 @@
     },
     {
       "year": 2023,
-      "citations": 975
+      "citations": 978
     },
     {
       "year": 2024,
-      "citations": 858
+      "citations": 863
     },
     {
       "year": 2025,
-      "citations": 949
+      "citations": 952
     },
     {
       "year": 2026,
-      "citations": 497
+      "citations": 520
     }
   ],
-  "last_synced": "2026-09-28 08:09 UTC",
+  "last_synced": "2026-10-12 03:53 UTC",
   "scholar_url": "https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en",
   "total_publications": 440
 }
