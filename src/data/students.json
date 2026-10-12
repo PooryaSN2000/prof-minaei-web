@@ -31,6 +31,26 @@
       "linkedin": "https://www.linkedin.com/in/fateme-marefat-3786a5aa/"
     },
     {
+      "name": "Abolfazl Hosseinifar",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Leila Taghizadeh",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
       "name": "Sara Tahanian",
       "degree": "Ph.D. Candidate",
       "program": "Computer Engineering",
@@ -100,16 +120,7 @@
       "image": "./images/people/somayeh_rezaei.jpg",
       "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
     },
-    {
-      "name": "Zahra Amiri",
-      "degree": "M.Sc. Student",
-      "program": "Artificial Intelligence",
-      "year": "Entering 1402 (2023)",
-      "mentor": "Dr. Khademi & Prof. Minaei",
-      "topic": "Enhancing Entity Alignment in Knowledge Graphs through a Combination of Semantic and Structural Embeddings",
-      "image": "./images/people/zahra_amiri.jpg",
-      "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
-    },
+
     {
       "name": "Poorya Sanei",
       "degree": "M.Sc. Student",
@@ -321,6 +332,16 @@
       "topic": "LLM Reasoning",
       "image": "./images/people/mohammad_qafqazian.jpg",
       "linkedin": ""
+    },
+    {
+      "name": "Zahra Amiri",
+      "degree": "M.Sc. (Defended)",
+      "program": "Artificial Intelligence",
+      "year": "Entering 1402 (2023)",
+      "mentor": "Dr. Khademi & Prof. Minaei",
+      "topic": "Enhancing Entity Alignment in Knowledge Graphs through a Combination of Semantic and Structural Embeddings",
+      "image": "./images/people/zahra_amiri.jpg",
+      "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
     },
     {
       "name": "Hanieh Nojabaie",
@@ -988,6 +1009,26 @@
       "linkedin": "https://www.linkedin.com/in/fateme-marefat-3786a5aa/"
     },
     {
+      "name": "Abolfazl Hosseinifar",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
+      "name": "Leila Taghizadeh",
+      "degree": "Ph.D. Candidate",
+      "program": "Computer Engineering",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": ""
+    },
+    {
       "name": "Sara Tahanian",
       "degree": "Ph.D. Candidate",
       "program": "Computer Engineering",
@@ -1059,16 +1100,7 @@
       "image": "",
       "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
     },
-    {
-      "name": "Zahra Amiri",
-      "degree": "M.Sc. Student",
-      "program": "Artificial Intelligence",
-      "year": "2023 (1402)",
-      "mentor": "Dr. Khademi & Prof. Minaei",
-      "topic": "Enhancing Entity Alignment in Knowledge Graphs through a Combination of Semantic and Structural Embeddings",
-      "image": "./images/people/zahra_amiri.jpg",
-      "linkedin": "https://www.linkedin.com/in/zahraaamiri/"
-    },
+
     {
       "name": "Poorya Sanei",
       "degree": "M.Sc. Student",
