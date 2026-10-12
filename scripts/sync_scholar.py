@@ -184,6 +184,79 @@ def save_data(publications, stats):
         print(f"✅ Saved {pubs_path} ({len(publications)} categorized articles)")
         print(f"✅ Saved {stats_path}")
 
+    # Auto-update Last Updated footer timestamp in all HTML pages
+    update_html_footers()
+
+def gregorian_to_jalali(gy, gm, gd):
+    g_d_m = [0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334]
+    if gy > 1600:
+        jy = 979
+        gy -= 1600
+    else:
+        jy = 0
+        gy -= 621
+    gy2 = gy if gm > 2 else gy - 1
+    days = 365 * gy + (gy2 + 3) // 4 - (gy2 + 99) // 100 + (gy2 + 399) // 400 - 80 + gd + g_d_m[gm - 1]
+    jy += 33 * (days // 12053)
+    days %= 12053
+    jy += 4 * (days // 1461)
+    days %= 1461
+    if days > 365:
+        jy += (days - 1) // 365
+        days = (days - 1) % 365
+    if days < 186:
+        jm = 1 + days // 31
+        jd = 1 + days % 31
+    else:
+        jm = 7 + (days - 186) // 30
+        jd = 1 + (days - 186) % 30
+    return jy, jm, jd
+
+def update_html_footers():
+    now = datetime.now(timezone.utc)
+    en_date = now.strftime("%B %d, %Y")
+    jy, jm, jd = gregorian_to_jalali(now.year, now.month, now.day)
+    jalali_str = f"{jy}/{jm:02d}/{jd:02d}"
+
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    current_repo_dir = os.path.dirname(script_dir)
+    parent_dir = os.path.dirname(current_repo_dir)
+
+    target_repos = [
+        current_repo_dir,
+        os.path.join(parent_dir, "minaei-faculty"),
+        os.path.join(parent_dir, "dml-lab")
+    ]
+    seen_repos = set()
+    for repo in target_repos:
+        norm = os.path.normpath(repo)
+        if os.path.exists(norm) and norm not in seen_repos:
+            seen_repos.add(norm)
+            search_dirs = [norm, os.path.join(norm, "dist")]
+            for sdir in search_dirs:
+                if not os.path.exists(sdir):
+                    continue
+                for fname in os.listdir(sdir):
+                    if fname.endswith(".html") and fname != "projects.html":
+                        fpath = os.path.join(sdir, fname)
+                        try:
+                            with open(fpath, "r", encoding="utf-8") as f:
+                                content = f.read()
+                            pattern = r'<div class="inline-flex items-center gap-1\.5 text-\[11px\] text-gray-400"[^>]*>.*?</div>'
+                            replacement = (
+                                f'<div class="inline-flex items-center gap-1.5 text-[11px] text-gray-400" title="Last updated: {en_date} ({jalali_str})">\n'
+                                f'        <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>\n'
+                                f'        <span>Last updated: {en_date}</span>\n'
+                                f'      </div>'
+                            )
+                            new_content, count = re.subn(pattern, replacement, content, flags=re.DOTALL)
+                            if count > 0 and new_content != content:
+                                with open(fpath, "w", encoding="utf-8") as f:
+                                    f.write(new_content)
+                                print(f"🕒 Auto-updated footer date in {fpath} -> {en_date}")
+                        except Exception as e:
+                            print(f"⚠️ Could not update footer in {fpath}: {e}")
+
 def get_sister_repo():
     gh_repo = os.environ.get("GITHUB_REPOSITORY", "").strip().lower()
     if "prof-minaei-web" in gh_repo:

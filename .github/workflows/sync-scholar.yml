@@ -29,5 +29,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/data/scholar_stats.json src/data/publications.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: sync Google Scholar data" && git push)
+          git add src/data/scholar_stats.json src/data/publications.json *.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: sync Google Scholar data & update footer timestamps" && git push)
