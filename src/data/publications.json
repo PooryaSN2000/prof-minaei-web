@@ -30,9 +30,9 @@
     "venue": "arXiv preprint arXiv:2608.27481, 2026",
     "year": 2026,
     "category": "NLP & Large Language Models",
-    "citations": 0,
+    "citations": 1,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ic1VZgkJnDsC",
-    "citations_link": "",
+    "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8982831881120648787",
     "bibtex": "@article{minaei2026barati_xhotpotqa,\n  title = {{XHotpotQA: A Benchmark for Cross-Lingual Knowledge Composition in Multi-Hop Question Answering}},\n  author = {I Barati and A Ghafouri and B Minaei-Bidgoli},\n  journal = {arXiv preprint arXiv:2608.27481, 2026},\n  year = {2026},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ic1VZgkJnDsC},\n}"
   },
   {
@@ -474,7 +474,7 @@
     "venue": "The Journal of Supercomputing 80 (9), 13341-13385, 2024",
     "year": 2024,
     "category": "Recommender Systems & Data Mining",
-    "citations": 11,
+    "citations": 12,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:k_7cPK9k7w8C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9309765128006292187",
     "bibtex": "@article{minaei2024bahrani_a,\n  title = {{A hybrid semantic recommender system based on an improved clustering: P. Bahrani et al.}},\n  author = {P Bahrani and B Minaei-Bidgoli and H Parvin and M Mirzarezaee and A Keshavarz},\n  journal = {The Journal of Supercomputing 80 (9), 13341-13385, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:k_7cPK9k7w8C},\n}"
@@ -546,7 +546,7 @@
     "venue": "Multimedia Tools and Applications 83 (6), 15985-16018, 2024",
     "year": 2024,
     "category": "Recommender Systems & Data Mining",
-    "citations": 16,
+    "citations": 17,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jSAVyFp_754C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2575496546141633925",
     "bibtex": "@article{minaei2024bahrani_a,\n  title = {{A hybrid semantic recommender system enriched with an imputation method}},\n  author = {P Bahrani and B Minaei-Bidgoli and H Parvin and M Mirzarezaee and A Keshavarz},\n  journal = {Multimedia Tools and Applications 83 (6), 15985-16018, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jSAVyFp_754C},\n}"
@@ -1134,7 +1134,7 @@
     "venue": "Expert Systems with Applications 186, 115722, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 90,
+    "citations": 91,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ade32sEp0pkC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15880167573717158781",
     "bibtex": "@article{minaei2021nilashi_an,\n  title = {{An analytical approach for big social data analysis for customer decision-making in eco-friendly hotels}},\n  author = {M Nilashi and B Minaei-Bidgoli and M Alrizq and A Alghamdi and AA Alsulami and S Samad and ...},\n  journal = {Expert Systems with Applications 186, 115722, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ade32sEp0pkC},\n}"
@@ -1158,7 +1158,7 @@
     "venue": "Technology in Society 67, 101728, 2021",
     "year": 2021,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 239,
+    "citations": 240,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:q-HalDI95KYC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2037180931178177019",
     "bibtex": "@article{minaei2021abumalloh_the,\n  title = {{The impact of coronavirus pandemic (COVID-19) on education: The role of virtual and remote laboratories in education}},\n  author = {RA Abumalloh and S Asadi and M Nilashi and B Minaei-Bidgoli and FK Nayer and S Samad and ...},\n  journal = {Technology in Society 67, 101728, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:q-HalDI95KYC},\n}"
@@ -1170,7 +1170,7 @@
     "venue": "Telematics and Informatics 64, 101693, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 136,
+    "citations": 137,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:WC9gN4BGCRcC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14550808107185492840",
     "bibtex": "@article{minaei2021nilashi_what,\n  title = {{What is the impact of service quality on customers’ satisfaction during COVID-19 outbreak? New findings from online reviews analysis}},\n  author = {M Nilashi and RA Abumalloh and A Alghamdi and B Minaei-Bidgoli and AA Alsulami and ...},\n  journal = {Telematics and Informatics 64, 101693, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:WC9gN4BGCRcC},\n}"
@@ -1182,7 +1182,7 @@
     "venue": "Int. J. Ind. Eng. Prod. Res 32 (3), 1-18, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 13,
+    "citations": 14,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:CdxZDUztZiMC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18116552367031482185",
     "bibtex": "@article{minaei2021khalilinezhad_detecting,\n  title = {{Detecting valuable customers using the trade patterns of financial transactions applying integrated RFM and OLAP}},\n  author = {S Khalilinezhad and H Fazlollahtabar and B Minaei-Bidgoli and HE Nosratabadi},\n  journal = {Int. J. Ind. Eng. Prod. Res 32 (3), 1-18, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:CdxZDUztZiMC},\n}"
@@ -1194,7 +1194,7 @@
     "venue": "Arabian Journal for Science and Engineering 46 (9), 8697-8709, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 40,
+    "citations": 41,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jU7OWUQzBzMC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4555486398814902215",
     "bibtex": "@article{minaei2021nilashi_online,\n  title = {{Online reviews analysis for customer segmentation through dimensionality reduction and deep learning techniques}},\n  author = {M Nilashi and S Samad and B Minaei-Bidgoli and F Ghabban and E Supriyanto‬},\n  journal = {Arabian Journal for Science and Engineering 46 (9), 8697-8709, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jU7OWUQzBzMC},\n}"
@@ -1218,7 +1218,7 @@
     "venue": "",
     "year": 2021,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 20,
+    "citations": 21,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:rHJHxKgnXwkC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1629781400874349618",
     "bibtex": "@article{minaei2021almaspoor_support,\n  title = {{Support vector machines in big data classification: A systematic literature review}},\n  author = {MH Almaspoor and A Safaei and A Salajegheh and B Minaei-Bidgoli},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:rHJHxKgnXwkC},\n}"
@@ -1554,7 +1554,7 @@
     "venue": "Artificial intelligence review 53 (6), 3947-3986, 2020",
     "year": 2020,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 478,
+    "citations": 481,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ZzlSgRqYykMC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7317233617745360042",
     "bibtex": "@article{minaei2020moradi_a,\n  title = {{A survey of regularization strategies for deep models: R. Moradi et al.}},\n  author = {R Moradi and R Berangi and B Minaei},\n  journal = {Artificial intelligence review 53 (6), 3947-3986, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ZzlSgRqYykMC},\n}"
@@ -2478,7 +2478,7 @@
     "venue": "International Journal of Basic Sciences in Medicine 1 (1), 13-17, 2016",
     "year": 2016,
     "category": "Recommender Systems & Data Mining",
-    "citations": 38,
+    "citations": 39,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:b1wdh0AR-JQC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=168022268606830896",
     "bibtex": "@article{minaei2016nasiri_dynamic,\n  title = {{Dynamic recommendation: Disease prediction and prevention using recommender system}},\n  author = {M Nasiri and B Minaei and A Kiani},\n  journal = {International Journal of Basic Sciences in Medicine 1 (1), 13-17, 2016},\n  year = {2016},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:b1wdh0AR-JQC},\n}"
@@ -2778,7 +2778,7 @@
     "venue": "Workshop Organizers, 71, 2015",
     "year": 2015,
     "category": "NLP & Large Language Models",
-    "citations": 2,
+    "citations": 3,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:kRWSkSYxWN8C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4476032847461716823",
     "bibtex": "@article{minaei2015shahmohammadi_a,\n  title = {{A framework for detecting Holy Quran inside Arabic and Persian texts}},\n  author = {M Shahmohammadi and T Alizadeh and MH Bijani and B Minaei},\n  journal = {Workshop Organizers, 71, 2015},\n  year = {2015},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:kRWSkSYxWN8C},\n}"
@@ -2922,7 +2922,7 @@
     "venue": "2014 Iranian Conference on Intelligent Systems (ICIS), 1-5, 2014",
     "year": 2014,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 17,
+    "citations": 19,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:1yQoGdGgb4wC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=165597472423658353",
     "bibtex": "@article{minaei2014ghanbarpour_exdbscan,\n  title = {{EXDBSCAN: An extension of DBSCAN to detect clusters in multi-density datasets}},\n  author = {A Ghanbarpour and B Minaei},\n  journal = {2014 Iranian Conference on Intelligent Systems (ICIS), 1-5, 2014},\n  year = {2014},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:1yQoGdGgb4wC},\n}"
@@ -4134,7 +4134,7 @@
     "venue": "Global Journal of Computer Science and Technology 10 (14), 37-41, 2010",
     "year": 2010,
     "category": "Recommender Systems & Data Mining",
-    "citations": 115,
+    "citations": 116,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:W5xh706n7nkC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4106476386859734973",
     "bibtex": "@article{minaei2010parvin_a,\n  title = {{A modification on k-nearest neighbor classifier}},\n  author = {H Parvin and H Alizadeh and B Minati},\n  journal = {Global Journal of Computer Science and Technology 10 (14), 37-41, 2010},\n  year = {2010},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:W5xh706n7nkC},\n}"
@@ -4230,7 +4230,7 @@
     "venue": "International Journal of Digital Content Technology and its Applications 4 …, 2010",
     "year": 2010,
     "category": "Recommender Systems & Data Mining",
-    "citations": 24,
+    "citations": 25,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ufrVoPGSRksC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=718034915523073496",
     "bibtex": "@article{minaei2010hadian_clustering,\n  title = {{Clustering based multi-objective rule mining using genetic algorithm}},\n  author = {A Hadian and M Nasiri and B Minaei-Bidgoli},\n  journal = {International Journal of Digital Content Technology and its Applications 4 …, 2010},\n  year = {2010},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ufrVoPGSRksC},\n}"
@@ -4575,13 +4575,13 @@
     "id": "pub-395",
     "title": "Improving Noise Clustering Algorithm Using Ant Colony Optimization",
     "authors": "Z Hajihashemi, B Minaei",
-    "venue": "2008 International Conference on Computer Science and Software Engineering 1 …, 2008",
+    "venue": "Computer Science and Software Engineering, International Conference on 1 …, 2008",
     "year": 2008,
     "category": "Recommender Systems & Data Mining",
     "citations": 2,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:7Hz3ACDFbsoC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11325612024141189291",
-    "bibtex": "@article{minaei2008hajihashemi_improving,\n  title = {{Improving Noise Clustering Algorithm Using Ant Colony Optimization}},\n  author = {Z Hajihashemi and B Minaei},\n  journal = {2008 International Conference on Computer Science and Software Engineering 1 …, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:7Hz3ACDFbsoC},\n}"
+    "bibtex": "@article{minaei2008hajihashemi_improving,\n  title = {{Improving Noise Clustering Algorithm Using Ant Colony Optimization}},\n  author = {Z Hajihashemi and B Minaei},\n  journal = {Computer Science and Software Engineering, International Conference on 1 …, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:7Hz3ACDFbsoC},\n}"
   },
   {
     "id": "pub-396",
@@ -4638,7 +4638,7 @@
     "venue": "Proceedings of the world congress on engineering and computer science 1, 2008",
     "year": 2008,
     "category": "Recommender Systems & Data Mining",
-    "citations": 176,
+    "citations": 175,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:SGW5VrABaM0C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7726948172062287713",
     "bibtex": "@article{minaei2008parvin_mknn,\n  title = {{MKNN: Modified k-nearest neighbor}},\n  author = {H Parvin and H Alizadeh and B Minaei-Bidgoli},\n  journal = {Proceedings of the world congress on engineering and computer science 1, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:SGW5VrABaM0C},\n}"
@@ -4705,18 +4705,6 @@
   },
   {
     "id": "pub-406",
-    "title": "CCHR: combination of classifiers using heuristic retraining",
-    "authors": "H Parvin, H Alizadeh, B Minaei-Bidgoli, M Analoui",
-    "venue": "2008 Fourth International Conference on Networked Computing and Advanced …, 2008",
-    "year": 2008,
-    "category": "Artificial Intelligence & Software Engineering",
-    "citations": 26,
-    "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:eQOLeE2rZwMC",
-    "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6052748666318560149",
-    "bibtex": "@article{minaei2008parvin_cchr,\n  title = {{CCHR: combination of classifiers using heuristic retraining}},\n  author = {H Parvin and H Alizadeh and B Minaei-Bidgoli and M Analoui},\n  journal = {2008 Fourth International Conference on Networked Computing and Advanced …, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:eQOLeE2rZwMC},\n}"
-  },
-  {
-    "id": "pub-407",
     "title": "A new approach to improve the vote-based classifier selection",
     "authors": "H Parvin, H Alizadeh, B Minaei-Bidgoli",
     "venue": "2008 Fourth International Conference on Networked Computing and Advanced …, 2008",
@@ -4728,7 +4716,7 @@
     "bibtex": "@article{minaei2008parvin_a,\n  title = {{A new approach to improve the vote-based classifier selection}},\n  author = {H Parvin and H Alizadeh and B Minaei-Bidgoli},\n  journal = {2008 Fourth International Conference on Networked Computing and Advanced …, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Y0pCki6q_DkC},\n}"
   },
   {
-    "id": "pub-408",
+    "id": "pub-407",
     "title": "A scalable method for improving the performance of classifiers in multiclass applications by pairwise classifiers and GA",
     "authors": "H Parvin, H Alizadeh, B Minaei-Bidgoli, M Analoui",
     "venue": "2008 fourth international conference on networked computing and advanced …, 2008",
@@ -4738,6 +4726,18 @@
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:IjCSPb-OGe4C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6087068654661642846",
     "bibtex": "@article{minaei2008parvin_a,\n  title = {{A scalable method for improving the performance of classifiers in multiclass applications by pairwise classifiers and GA}},\n  author = {H Parvin and H Alizadeh and B Minaei-Bidgoli and M Analoui},\n  journal = {2008 fourth international conference on networked computing and advanced …, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:IjCSPb-OGe4C},\n}"
+  },
+  {
+    "id": "pub-408",
+    "title": "CCHR: combination of classifiers using heuristic retraining",
+    "authors": "H Parvin, H Alizadeh, B Minaei-Bidgoli, M Analoui",
+    "venue": "Networked Computing and Advanced Information Management, International …, 2008",
+    "year": 2008,
+    "category": "Artificial Intelligence & Software Engineering",
+    "citations": 26,
+    "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:eQOLeE2rZwMC",
+    "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6052748666318560149",
+    "bibtex": "@article{minaei2008parvin_cchr,\n  title = {{CCHR: combination of classifiers using heuristic retraining}},\n  author = {H Parvin and H Alizadeh and B Minaei-Bidgoli and M Analoui},\n  journal = {Networked Computing and Advanced Information Management, International …, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:eQOLeE2rZwMC},\n}"
   },
   {
     "id": "pub-409",
