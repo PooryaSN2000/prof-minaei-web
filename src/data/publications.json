@@ -174,9 +174,9 @@
     "venue": "Journal of Open Humanities Data 12 (1), 18-18, 2026",
     "year": 2026,
     "category": "NLP & Large Language Models",
-    "citations": 0,
+    "citations": 1,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:8dzOF9BpDQoC",
-    "citations_link": "",
+    "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=819472412927234009",
     "bibtex": "@article{minaei2026minaeibidgoli_domain,\n  title = {{Domain Sensitivity in Arabic Morphological Analysis: A Multi-Corpus Evaluation of Farasa, CAMeL, and ALP Across Modern, Classical Religious, and Classical Jurisprudential Domains}},\n  author = {B Minaei-Bidgoli and H AlShuhayeb and SA Hossayni},\n  journal = {Journal of Open Humanities Data 12 (1), 18-18, 2026},\n  year = {2026},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:8dzOF9BpDQoC},\n}"
   },
   {
@@ -198,7 +198,7 @@
     "venue": "arXiv preprint arXiv:2510.22344, 2025",
     "year": 2025,
     "category": "NLP & Large Language Models",
-    "citations": 18,
+    "citations": 20,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:NMlhSUseqAsC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7172827909610299157",
     "bibtex": "@article{minaei2025asl_fair,\n  title = {{Fair-rag: Faithful adaptive iterative refinement for retrieval-augmented generation}},\n  author = {MA Asl and M Asgari-Bidhendi and B Minaei-Bidgoli},\n  journal = {arXiv preprint arXiv:2510.22344, 2025},\n  year = {2025},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:NMlhSUseqAsC},\n}"
@@ -546,7 +546,7 @@
     "venue": "Multimedia Tools and Applications 83 (6), 15985-16018, 2024",
     "year": 2024,
     "category": "Recommender Systems & Data Mining",
-    "citations": 17,
+    "citations": 18,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jSAVyFp_754C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2575496546141633925",
     "bibtex": "@article{minaei2024bahrani_a,\n  title = {{A hybrid semantic recommender system enriched with an imputation method}},\n  author = {P Bahrani and B Minaei-Bidgoli and H Parvin and M Mirzarezaee and A Keshavarz},\n  journal = {Multimedia Tools and Applications 83 (6), 15985-16018, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jSAVyFp_754C},\n}"
@@ -966,7 +966,7 @@
     "venue": "Journal of Intelligent Information Systems 58 (3), 561-590, 2022",
     "year": 2022,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 4,
+    "citations": 3,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jFemdcug13IC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15315229057624288849",
     "bibtex": "@article{minaei2022niknam_the,\n  title = {{The role of transitive closure in evaluating blocking methods for dirty entity resolution}},\n  author = {M Niknam and B Minaei-Bidgoli and R Dianat},\n  journal = {Journal of Intelligent Information Systems 58 (3), 561-590, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:jFemdcug13IC},\n}"
@@ -1062,7 +1062,7 @@
     "venue": "Scientific Programming 2022 (1), 4439189, 2022",
     "year": 2022,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 35,
+    "citations": 36,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:sszUF3NjhM4C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13480617791715447283",
     "bibtex": "@article{minaei2022ahmadi_eye,\n  title = {{Eye State Identification Utilizing EEG Signals: A Combined Method Using Self‐Organizing Map and Deep Belief Network}},\n  author = {N Ahmadi and M Nilashi and B Minaei-Bidgoli and M Farooque and S Samad and ...},\n  journal = {Scientific Programming 2022 (1), 4439189, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:sszUF3NjhM4C},\n}"
@@ -1110,7 +1110,7 @@
     "venue": "Multimedia Tools and Applications 81 (2), 1853-1866, 2022",
     "year": 2022,
     "category": "NLP & Large Language Models",
-    "citations": 7,
+    "citations": 8,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:6_hjMsCP8ZoC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9522793649233434155",
     "bibtex": "@article{minaei2022shenassa_elmnet,\n  title = {{ElmNet: a benchmark dataset for generating headlines from Persian papers}},\n  author = {ME Shenassa and B Minaei-Bidgoli},\n  journal = {Multimedia Tools and Applications 81 (2), 1853-1866, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:6_hjMsCP8ZoC},\n}"
@@ -1182,7 +1182,7 @@
     "venue": "Int. J. Ind. Eng. Prod. Res 32 (3), 1-18, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 14,
+    "citations": 15,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:CdxZDUztZiMC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18116552367031482185",
     "bibtex": "@article{minaei2021khalilinezhad_detecting,\n  title = {{Detecting valuable customers using the trade patterns of financial transactions applying integrated RFM and OLAP}},\n  author = {S Khalilinezhad and H Fazlollahtabar and B Minaei-Bidgoli and HE Nosratabadi},\n  journal = {Int. J. Ind. Eng. Prod. Res 32 (3), 1-18, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:CdxZDUztZiMC},\n}"
@@ -1242,7 +1242,7 @@
     "venue": "Telematics and Informatics 61, 101597, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 107,
+    "citations": 106,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PYBJJbyH-FwC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4739742609689730245",
     "bibtex": "@article{minaei2021nilashi_recommendation,\n  title = {{Recommendation agents and information sharing through social media for coronavirus outbreak}},\n  author = {M Nilashi and S Asadi and B Minaei-Bidgoli and RA Abumalloh and S Samad and ...},\n  journal = {Telematics and Informatics 61, 101597, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PYBJJbyH-FwC},\n}"
@@ -1554,7 +1554,7 @@
     "venue": "Artificial intelligence review 53 (6), 3947-3986, 2020",
     "year": 2020,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 482,
+    "citations": 485,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ZzlSgRqYykMC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7317233617745360042",
     "bibtex": "@article{minaei2020moradi_a,\n  title = {{A survey of regularization strategies for deep models: R. Moradi et al.}},\n  author = {R Moradi and R Berangi and B Minaei},\n  journal = {Artificial intelligence review 53 (6), 3947-3986, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ZzlSgRqYykMC},\n}"
@@ -1566,7 +1566,7 @@
     "venue": "Ieee Access 8, 140008-140018, 2020",
     "year": 2020,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 134,
+    "citations": 135,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:zCSUwVk65WsC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6383854340047126352",
     "bibtex": "@article{minaei2020rahman_distblockbuilding,\n  title = {{Distblockbuilding: A distributed blockchain-based sdn-iot network for smart building management}},\n  author = {A Rahman and MK Nasir and Z Rahman and A Mosavi and B Minaei-Bidgoli},\n  journal = {Ieee Access 8, 140008-140018, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:zCSUwVk65WsC},\n}"
@@ -1686,7 +1686,7 @@
     "venue": "Iranian Journal of Information Processing and Management 35 (2), 425-462, 2020",
     "year": 2020,
     "category": "NLP & Large Language Models",
-    "citations": 4,
+    "citations": 5,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:wKETBy42zhYC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5513305768194998668",
     "bibtex": "@article{minaei2020sajadi_the,\n  title = {{The Architecture of Farsi Knowledge Graph System}},\n  author = {MB Sajadi and B Minaei Bidgoli},\n  journal = {Iranian Journal of Information Processing and Management 35 (2), 425-462, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:wKETBy42zhYC},\n}"
@@ -1794,7 +1794,7 @@
     "venue": "Semantic Web 10 (6), 1169-1196, 2019",
     "year": 2019,
     "category": "NLP & Large Language Models",
-    "citations": 33,
+    "citations": 34,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:86PQX7AUzd4C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=283078054634678871",
     "bibtex": "@article{minaei2019asgaribidhendi_farsbase,\n  title = {{Farsbase: The persian knowledge graph}},\n  author = {M Asgari-Bidhendi and A Hadian and B Minaei-Bidgoli},\n  journal = {Semantic Web 10 (6), 1169-1196, 2019},\n  year = {2019},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:86PQX7AUzd4C},\n}"
@@ -1830,7 +1830,7 @@
     "venue": "arXiv preprint arXiv:1908.01815, 2019",
     "year": 2019,
     "category": "NLP & Large Language Models",
-    "citations": 24,
+    "citations": 25,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:9c2xU6iGI7YC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2065386996574444327",
     "bibtex": "@article{minaei2019ataei_pars,\n  title = {{Pars-ABSA: an aspect-based sentiment analysis dataset for Persian}},\n  author = {TS Ataei and K Darvishi and S Javdan and B Minaei-Bidgoli and S Eetemadi},\n  journal = {arXiv preprint arXiv:1908.01815, 2019},\n  year = {2019},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:9c2xU6iGI7YC},\n}"
@@ -2130,7 +2130,7 @@
     "venue": "Expert Systems with Applications 113, 499-514, 2018",
     "year": 2018,
     "category": "Recommender Systems & Data Mining",
-    "citations": 165,
+    "citations": 166,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PVjk1bu6vJQC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6560496291867795783",
     "bibtex": "@article{minaei2018amoozegar_optimizing,\n  title = {{Optimizing multi-objective PSO based feature selection method using a feature elitism mechanism}},\n  author = {M Amoozegar and B Minaei-Bidgoli},\n  journal = {Expert Systems with Applications 113, 499-514, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PVjk1bu6vJQC},\n}"
@@ -2154,7 +2154,7 @@
     "venue": "Expert Systems with Applications 105, 129-143, 2018",
     "year": 2018,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 110,
+    "citations": 111,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:XoXfffV-tXoC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1262794417083362237",
     "bibtex": "@article{minaei2018aryabarzan_negfin,\n  title = {{negFIN: An efficient algorithm for fast mining frequent itemsets}},\n  author = {N Aryabarzan and B Minaei-Bidgoli and M Teshnehlab},\n  journal = {Expert Systems with Applications 105, 129-143, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:XoXfffV-tXoC},\n}"
@@ -2298,7 +2298,7 @@
     "venue": "Engineering Applications of Computational Fluid Mechanics 12 (1), 438-458, 2018",
     "year": 2018,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 280,
+    "citations": 281,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ug5p-4gJ2f0C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10145860329260656879,7613948560821985504",
     "bibtex": "@article{minaei2018ardabili_computational,\n  title = {{Computational intelligence approach for modeling hydrogen production: A review}},\n  author = {S Faizollahzadeh Ardabili and B Najafi and S Shamshirband and B Minaei Bidgoli and ...},\n  journal = {Engineering Applications of Computational Fluid Mechanics 12 (1), 438-458, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ug5p-4gJ2f0C},\n}"
@@ -2502,7 +2502,7 @@
     "venue": "The Journal of Supercomputing 72 (6), 2157-2169, 2016",
     "year": 2016,
     "category": "Recommender Systems & Data Mining",
-    "citations": 28,
+    "citations": 29,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:uWiczbcajpAC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4702319779644289",
     "bibtex": "@article{minaei2016nasiri_increasing,\n  title = {{Increasing prediction accuracy in collaborative filtering with initialized factor matrices}},\n  author = {M Nasiri and B Minaei},\n  journal = {The Journal of Supercomputing 72 (6), 2157-2169, 2016},\n  year = {2016},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:uWiczbcajpAC},\n}"
@@ -2598,7 +2598,7 @@
     "venue": "International journal of health policy and management 5 (3), 165, 2015",
     "year": 2015,
     "category": "Recommender Systems & Data Mining",
-    "citations": 103,
+    "citations": 104,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:j8SEvjWlNXcC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5443722979388233000",
     "bibtex": "@article{minaei2015joudaki_improving,\n  title = {{Improving fraud and abuse detection in general physician claims: a data mining study}},\n  author = {H Joudaki and A Rashidian and B Minaei-Bidgoli and M Mahmoodi and B Geraili and ...},\n  journal = {International journal of health policy and management 5 (3), 165, 2015},\n  year = {2015},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:j8SEvjWlNXcC},\n}"
@@ -2826,7 +2826,7 @@
     "venue": "International Journal of Communication Systems 27 (10), 2190-2214, 2014",
     "year": 2014,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 23,
+    "citations": 24,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:XiSMed-E-HIC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9492519677165149142",
     "bibtex": "@article{minaei2014khaneghah_modeling,\n  title = {{Modeling and analysis of access transparency and scalability in p2p distributed systems}},\n  author = {E Mousavi Khaneghah and SL Mirtaheri and M Sharifi and B Minaei Bidgoli},\n  journal = {International Journal of Communication Systems 27 (10), 2190-2214, 2014},\n  year = {2014},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:XiSMed-E-HIC},\n}"
@@ -2862,7 +2862,7 @@
     "venue": "Global journal of health science 7 (1), 194, 2014",
     "year": 2014,
     "category": "Recommender Systems & Data Mining",
-    "citations": 266,
+    "citations": 269,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PELIpwtuRlgC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8236531957379794486",
     "bibtex": "@article{minaei2014joudaki_using,\n  title = {{Using data mining to detect health care fraud and abuse: a review of literature}},\n  author = {H Joudaki and A Rashidian and B Minaei-Bidgoli and M Mahmoodi and B Geraili and ...},\n  journal = {Global journal of health science 7 (1), 194, 2014},\n  year = {2014},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PELIpwtuRlgC},\n}"
@@ -4638,7 +4638,7 @@
     "venue": "Proceedings of the world congress on engineering and computer science 1, 2008",
     "year": 2008,
     "category": "Recommender Systems & Data Mining",
-    "citations": 175,
+    "citations": 176,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:SGW5VrABaM0C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7726948172062287713",
     "bibtex": "@article{minaei2008parvin_mknn,\n  title = {{MKNN: Modified k-nearest neighbor}},\n  author = {H Parvin and H Alizadeh and B Minaei-Bidgoli},\n  journal = {Proceedings of the world congress on engineering and computer science 1, 2008},\n  year = {2008},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:SGW5VrABaM0C},\n}"
@@ -5010,7 +5010,7 @@
     "venue": "33rd Annual Frontiers in Education, 2003. FIE 2003. 1, T2A-13, 2003",
     "year": 2003,
     "category": "Educational Data Mining & Learning Analytics",
-    "citations": 455,
+    "citations": 456,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:d1gkVwhDpl0C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13934965733938674111",
     "bibtex": "@article{minaei2003minaeibidgoli_predicting,\n  title = {{Predicting student performance: an application of data mining methods with an educational web-based system}},\n  author = {B Minaei-Bidgoli and DA Kashy and G Kortemeyer and WF Punch},\n  journal = {33rd Annual Frontiers in Education, 2003. FIE 2003. 1, T2A-13, 2003},\n  year = {2003},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:d1gkVwhDpl0C},\n}"
