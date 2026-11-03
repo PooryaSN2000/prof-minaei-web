@@ -15,6 +15,7 @@ Crawls:
 import os
 import sys
 import json
+import subprocess
 import urllib.request
 import urllib.error
 import re
@@ -136,6 +137,21 @@ def fetch_page(cstart=0, pagesize=100, sortby="pubdate", retries=3, initial_dela
     delay = initial_delay
     for attempt in range(1, retries + 1):
         try:
+            # Prefer curl for reliable browser TLS fingerprinting to bypass 403 blocks
+            cmd = [
+                "curl", "-s", "-L",
+                "-A", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+                "-H", "Accept-Language: en-US,en;q=0.9",
+                url
+            ]
+            res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=30)
+            content = res.stdout.decode('utf-8', errors='replace')
+            if content and ("please show you're not a robot" in content.lower() or "/sorry/index" in content.lower()):
+                raise urllib.error.HTTPError(url, 429, "Google Scholar CAPTCHA / bot block detected", {}, None)
+            if content and "gsc_a_t" in content:
+                return content
+
+            # Fallback to urllib if curl returned empty
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, timeout=25) as response:
                 content = response.read().decode('utf-8', errors='replace')
