@@ -198,7 +198,7 @@
     "venue": "arXiv preprint arXiv:2510.22344, 2025",
     "year": 2025,
     "category": "NLP & Large Language Models",
-    "citations": 21,
+    "citations": 22,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:NMlhSUseqAsC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7172827909610299157",
     "bibtex": "@article{minaei2025asl_fair,\n  title = {{Fair-rag: Faithful adaptive iterative refinement for retrieval-augmented generation}},\n  author = {MA Asl and M Asgari-Bidhendi and B Minaei-Bidgoli},\n  journal = {arXiv preprint arXiv:2510.22344, 2025},\n  year = {2025},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:NMlhSUseqAsC},\n}"
@@ -558,7 +558,7 @@
     "venue": "The Journal of Supercomputing 80 (1), 800-834, 2024",
     "year": 2024,
     "category": "Recommender Systems & Data Mining",
-    "citations": 24,
+    "citations": 25,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:rbm3iO8VlycC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3455950840346459077",
     "bibtex": "@article{minaei2024bahrani_a,\n  title = {{A new improved KNN-based recommender system: P. Bahrani et al.}},\n  author = {P Bahrani and B Minaei-Bidgoli and H Parvin and M Mirzarezaee and A Keshavarz},\n  journal = {The Journal of Supercomputing 80 (1), 800-834, 2024},\n  year = {2024},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:rbm3iO8VlycC},\n}"
@@ -702,7 +702,7 @@
     "venue": "arXiv preprint arXiv:2303.14647, 2023",
     "year": 2023,
     "category": "Knowledge Graphs & Semantic Web",
-    "citations": 3,
+    "citations": 4,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:69ZgNCALVd0C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9115690275878957046",
     "bibtex": "@article{minaei2023torabian_farspredict,\n  title = {{Farspredict: A benchmark dataset for link prediction}},\n  author = {N Torabian and B Minaei-Bidgoli and M Jahanshahi},\n  journal = {arXiv preprint arXiv:2303.14647, 2023},\n  year = {2023},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:69ZgNCALVd0C},\n}"
@@ -1122,7 +1122,7 @@
     "venue": "Journal of Retailing and Consumer Services 64, 102783, 2022",
     "year": 2022,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 112,
+    "citations": 113,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:AXkvAH5U_nMC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16957252736950138570",
     "bibtex": "@article{minaei2022nilashi_revealing,\n  title = {{Revealing travellers’ satisfaction during COVID-19 outbreak: Moderating role of service quality}},\n  author = {M Nilashi and RA Abumalloh and B Minaei-Bidgoli and WA Zogaan and A Alhargan and ...},\n  journal = {Journal of Retailing and Consumer Services 64, 102783, 2022},\n  year = {2022},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:AXkvAH5U_nMC},\n}"
@@ -1134,7 +1134,7 @@
     "venue": "Expert Systems with Applications 186, 115722, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 91,
+    "citations": 92,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ade32sEp0pkC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15880167573717158781",
     "bibtex": "@article{minaei2021nilashi_an,\n  title = {{An analytical approach for big social data analysis for customer decision-making in eco-friendly hotels}},\n  author = {M Nilashi and B Minaei-Bidgoli and M Alrizq and A Alghamdi and AA Alsulami and S Samad and ...},\n  journal = {Expert Systems with Applications 186, 115722, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:Ade32sEp0pkC},\n}"
@@ -1230,7 +1230,7 @@
     "venue": "Proceedings of* SEM 2021: The Tenth Joint Conference on Lexical and …, 2021",
     "year": 2021,
     "category": "NLP & Large Language Models",
-    "citations": 7,
+    "citations": 8,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:HGTzPopzzJcC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6863078758245385505",
     "bibtex": "@article{minaei2021zarharan_parsfever,\n  title = {{ParsFEVER: a dataset for Farsi fact extraction and verification}},\n  author = {M Zarharan and M Ghaderan and A Pourdabiri and Z Sayedi and B Minaei-Bidgoli and ...},\n  journal = {Proceedings of* SEM 2021: The Tenth Joint Conference on Lexical and …, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:HGTzPopzzJcC},\n}"
@@ -1242,7 +1242,7 @@
     "venue": "Telematics and Informatics 61, 101597, 2021",
     "year": 2021,
     "category": "Recommender Systems & Data Mining",
-    "citations": 106,
+    "citations": 107,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PYBJJbyH-FwC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4739742609689730245",
     "bibtex": "@article{minaei2021nilashi_recommendation,\n  title = {{Recommendation agents and information sharing through social media for coronavirus outbreak}},\n  author = {M Nilashi and S Asadi and B Minaei-Bidgoli and RA Abumalloh and S Samad and ...},\n  journal = {Telematics and Informatics 61, 101597, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PYBJJbyH-FwC},\n}"
@@ -1254,7 +1254,7 @@
     "venue": "Expert Systems with Applications 174, 114738, 2021",
     "year": 2021,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 32,
+    "citations": 33,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:WC23djZS0W4C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=885935447835451796",
     "bibtex": "@article{minaei2021aryabarzan_neclatclosed,\n  title = {{Neclatclosed: A vertical algorithm for mining frequent closed itemsets}},\n  author = {N Aryabarzan and B Minaei-Bidgoli},\n  journal = {Expert Systems with Applications 174, 114738, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:WC23djZS0W4C},\n}"
@@ -1290,7 +1290,7 @@
     "venue": "Scientia Iranica 28 (Special issue on collective behavior of nonlinear …, 2021",
     "year": 2021,
     "category": "Computer Games & Interactive Entertainment",
-    "citations": 10,
+    "citations": 11,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:j7_hQOaDUrUC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2908214287380590923",
     "bibtex": "@article{minaei2021rajabi_a,\n  title = {{A dynamic balanced level generator for video games based on deep convolutional generative adversarial networks}},\n  author = {M Rajabi and M Ashtiani and B Minaei Bidgoli and O Davoodi},\n  journal = {Scientia Iranica 28 (Special issue on collective behavior of nonlinear …, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:j7_hQOaDUrUC},\n}"
@@ -1338,7 +1338,7 @@
     "venue": "Journal of Web Semantics 68, 100638, 2021",
     "year": 2021,
     "category": "NLP & Large Language Models",
-    "citations": 8,
+    "citations": 9,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:NyGDZy8z5eUC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8041027183782048363",
     "bibtex": "@article{minaei2021asgaribidhendi_farsbase,\n  title = {{FarsBase-KBP: A knowledge base population system for the Persian Knowledge Graph}},\n  author = {M Asgari-Bidhendi and B Janfada and B Minaei-Bidgoli},\n  journal = {Journal of Web Semantics 68, 100638, 2021},\n  year = {2021},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:NyGDZy8z5eUC},\n}"
@@ -1554,7 +1554,7 @@
     "venue": "Artificial intelligence review 53 (6), 3947-3986, 2020",
     "year": 2020,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 489,
+    "citations": 491,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ZzlSgRqYykMC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7317233617745360042",
     "bibtex": "@article{minaei2020moradi_a,\n  title = {{A survey of regularization strategies for deep models: R. Moradi et al.}},\n  author = {R Moradi and R Berangi and B Minaei},\n  journal = {Artificial intelligence review 53 (6), 3947-3986, 2020},\n  year = {2020},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:ZzlSgRqYykMC},\n}"
@@ -1794,7 +1794,7 @@
     "venue": "Semantic Web 10 (6), 1169-1196, 2019",
     "year": 2019,
     "category": "NLP & Large Language Models",
-    "citations": 34,
+    "citations": 35,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:86PQX7AUzd4C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=283078054634678871",
     "bibtex": "@article{minaei2019asgaribidhendi_farsbase,\n  title = {{Farsbase: The persian knowledge graph}},\n  author = {M Asgari-Bidhendi and A Hadian and B Minaei-Bidgoli},\n  journal = {Semantic Web 10 (6), 1169-1196, 2019},\n  year = {2019},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:86PQX7AUzd4C},\n}"
@@ -2238,7 +2238,7 @@
     "venue": "Basic and clinical neuroscience 9 (3), 177, 2018",
     "year": 2018,
     "category": "Computer Games & Interactive Entertainment",
-    "citations": 126,
+    "citations": 125,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:FPJr55Dyh1AC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6429185259636058388",
     "bibtex": "@article{minaei2018aliyari_the,\n  title = {{The beneficial or harmful effects of computer game stress on cognitive functions of players}},\n  author = {H Aliyari and H Sahraei and MR Daliri and B Minaei-Bidgoli and M Kazemi and H Agaei and ...},\n  journal = {Basic and clinical neuroscience 9 (3), 177, 2018},\n  year = {2018},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:FPJr55Dyh1AC},\n}"
@@ -2862,7 +2862,7 @@
     "venue": "Global journal of health science 7 (1), 194, 2014",
     "year": 2014,
     "category": "Recommender Systems & Data Mining",
-    "citations": 271,
+    "citations": 274,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PELIpwtuRlgC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8236531957379794486",
     "bibtex": "@article{minaei2014joudaki_using,\n  title = {{Using data mining to detect health care fraud and abuse: a review of literature}},\n  author = {H Joudaki and A Rashidian and B Minaei-Bidgoli and M Mahmoodi and B Geraili and ...},\n  journal = {Global journal of health science 7 (1), 194, 2014},\n  year = {2014},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:PELIpwtuRlgC},\n}"
@@ -3198,7 +3198,7 @@
     "venue": "Cities 31, 394-403, 2013",
     "year": 2013,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 25,
+    "citations": 26,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:738O_yMBCRsC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2324307913934997545",
     "bibtex": "@article{minaei2013akhondzadehnoughabi_ftis,\n  title = {{FTiS: A new model for effective urban management: A case study of urban systems in Iran}},\n  author = {E Akhondzadeh-Noughabi and S Alizadeh and AM Ahmadvand and B Minaei-Bidgoli},\n  journal = {Cities 31, 394-403, 2013},\n  year = {2013},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:738O_yMBCRsC},\n}"
@@ -4374,7 +4374,7 @@
     "venue": "J. Convergence Inf. Technol. 4 (3), 94-102, 2009",
     "year": 2009,
     "category": "Artificial Intelligence & Software Engineering",
-    "citations": 184,
+    "citations": 185,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:8k81kl-MbHgC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4795908711504159596",
     "bibtex": "@article{minaei2009entezarimaleki_comparison,\n  title = {{Comparison of classification methods based on the type of attributes and sample size.}},\n  author = {R Entezari-Maleki and A Rezaei and B Minaei-Bidgoli},\n  journal = {J. Convergence Inf. Technol. 4 (3), 94-102, 2009},\n  year = {2009},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:8k81kl-MbHgC},\n}"
@@ -4446,7 +4446,7 @@
     "venue": "AIP Conference Proceedings 1127 (1), 153-161, 2009",
     "year": 2009,
     "category": "Recommender Systems & Data Mining",
-    "citations": 11,
+    "citations": 12,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:KlAtU1dfN6UC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=35783554177417696",
     "bibtex": "@article{minaei2009parvin_validation,\n  title = {{Validation Based Modified K‐Nearest Neighbor}},\n  author = {H Parvin and H Alizadeh and B Minaei‐Bidgoli},\n  journal = {AIP Conference Proceedings 1127 (1), 153-161, 2009},\n  year = {2009},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:KlAtU1dfN6UC},\n}"
@@ -5010,7 +5010,7 @@
     "venue": "33rd Annual Frontiers in Education, 2003. FIE 2003. 1, T2A-13, 2003",
     "year": 2003,
     "category": "Educational Data Mining & Learning Analytics",
-    "citations": 456,
+    "citations": 459,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:d1gkVwhDpl0C",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13934965733938674111",
     "bibtex": "@article{minaei2003minaeibidgoli_predicting,\n  title = {{Predicting student performance: an application of data mining methods with an educational web-based system}},\n  author = {B Minaei-Bidgoli and DA Kashy and G Kortemeyer and WF Punch},\n  journal = {33rd Annual Frontiers in Education, 2003. FIE 2003. 1, T2A-13, 2003},\n  year = {2003},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:d1gkVwhDpl0C},\n}"
@@ -5022,7 +5022,7 @@
     "venue": "Genetic and evolutionary computation conference, 2252-2263, 2003",
     "year": 2003,
     "category": "Educational Data Mining & Learning Analytics",
-    "citations": 278,
+    "citations": 280,
     "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:9yKSN-GCB0IC",
     "citations_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12146848485069564708,16450693230407580375",
     "bibtex": "@article{minaei2003minaeibidgoli_using,\n  title = {{Using genetic algorithms for data mining optimization in an educational web-based system}},\n  author = {B Minaei-Bidgoli and WF Punch},\n  journal = {Genetic and evolutionary computation conference, 2252-2263, 2003},\n  year = {2003},\n  url = {https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8tgU-wAAAAJ&cstart=400&pagesize=100&sortby=pubdate&citation_for_view=M8tgU-wAAAAJ:9yKSN-GCB0IC},\n}"
