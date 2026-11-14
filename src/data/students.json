@@ -289,6 +289,46 @@
       "topic": "A Hybrid Approach Combining Traditional Reasoners and Graph-Based Language Models for Validation and Consistency Checking in the Semantic Web",
       "image": "./images/people/maryam_mortazavi.jpg",
       "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246/"
+    },
+    {
+      "name": "Aref Najmaddini",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/aref_najmaddini.jpeg",
+      "linkedin": "https://www.linkedin.com/in/arefnajmaddini/"
+    },
+    {
+      "name": "Maysa Gharehgozli",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/maysa-gharehgozli-255361344/"
+    },
+    {
+      "name": "Shahin Torabi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/shahin_torabi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/shahin-torabi-786815276/"
+    },
+    {
+      "name": "Amirhossein Karimzadgan",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/amirhossein_karimzadgan.jpeg",
+      "linkedin": "https://www.linkedin.com/in/amirhossein-karimzadgan/"
     }
   ],
   "alumni": [
@@ -1268,6 +1308,46 @@
       "topic": "Consistency checking in semantic web",
       "image": "./images/people/maryam_mortazavi.jpg",
       "linkedin": "https://www.linkedin.com/in/maryam-mortazavi-nik-383298246"
+    },
+    {
+      "name": "Aref Najmaddini",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/aref_najmaddini.jpeg",
+      "linkedin": "https://www.linkedin.com/in/arefnajmaddini/"
+    },
+    {
+      "name": "Maysa Gharehgozli",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/maysa-gharehgozli-255361344/"
+    },
+    {
+      "name": "Shahin Torabi",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/shahin_torabi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/shahin-torabi-786815276/"
+    },
+    {
+      "name": "Amirhossein Karimzadgan",
+      "degree": "M.Sc. Student",
+      "program": "Software Engineering",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/amirhossein_karimzadgan.jpeg",
+      "linkedin": "https://www.linkedin.com/in/amirhossein-karimzadgan/"
     }
   ]
 }
