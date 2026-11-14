@@ -1,11 +1,11 @@
 {
   "citations": {
-    "all": 10006,
-    "since_recent": 5094
+    "all": 10016,
+    "since_recent": 5103
   },
   "h_index": {
     "all": 51,
-    "since_recent": 34
+    "since_recent": 35
   },
   "i10_index": {
     "all": 172,
@@ -42,7 +42,7 @@
     },
     {
       "year": 2012,
-      "citations": 293
+      "citations": 292
     },
     {
       "year": 2013,
@@ -50,11 +50,11 @@
     },
     {
       "year": 2014,
-      "citations": 389
+      "citations": 388
     },
     {
       "year": 2015,
-      "citations": 460
+      "citations": 461
     },
     {
       "year": 2016,
@@ -66,7 +66,7 @@
     },
     {
       "year": 2018,
-      "citations": 442
+      "citations": 443
     },
     {
       "year": 2019,
@@ -74,7 +74,7 @@
     },
     {
       "year": 2020,
-      "citations": 713
+      "citations": 714
     },
     {
       "year": 2021,
@@ -82,7 +82,7 @@
     },
     {
       "year": 2022,
-      "citations": 891
+      "citations": 892
     },
     {
       "year": 2023,
@@ -98,10 +98,10 @@
     },
     {
       "year": 2026,
-      "citations": 585
+      "citations": 593
     }
   ],
-  "last_synced": "2026-11-09 05:13 UTC",
+  "last_synced": "2026-11-14 11:47 UTC",
   "scholar_url": "https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en",
   "total_publications": 440
 }
