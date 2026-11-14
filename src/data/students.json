@@ -81,16 +81,6 @@
       "linkedin": ""
     },
     {
-      "name": "Arefeh Rajabian",
-      "degree": "M.Sc. Student",
-      "program": "Software Engineering",
-      "year": "Entering 1402 (2023)",
-      "mentor": "Dr. Zohreh Moteshaker & Prof. Minaei",
-      "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
-      "image": "./images/people/arefe_rajabian.jpg",
-      "linkedin": "https://www.linkedin.com/in/arefe-rajabian-43aa41178/"
-    },
-    {
       "name": "Fatemeh Sotoudeh",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
@@ -120,7 +110,6 @@
       "image": "./images/people/somayeh_rezaei.jpg",
       "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
     },
-
     {
       "name": "Poorya Sanei",
       "degree": "M.Sc. Student",
@@ -322,6 +311,16 @@
       "topic": "",
       "image": "./images/people/mohammadamin_shahab.jpeg",
       "linkedin": "https://www.linkedin.com/in/mohammadamin-shahab/"
+    },
+    {
+      "name": "Arefeh Rajabian",
+      "degree": "M.Sc. (Defended)",
+      "program": "Software Engineering",
+      "year": "Entering 1402 (Defended Oct 2026)",
+      "mentor": "Dr. Zohreh Moteshaker & Prof. Minaei",
+      "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
+      "image": "./images/people/arefe_rajabian.jpg",
+      "linkedin": "https://www.linkedin.com/in/arefe-rajabian-43aa41178/"
     },
     {
       "name": "Mohammad Qafqazian",
@@ -1061,16 +1060,6 @@
   ],
   "msc": [
     {
-      "name": "Arefeh Rajabian",
-      "degree": "M.Sc. Student",
-      "program": "Software Engineering",
-      "year": "2023 (1402)",
-      "mentor": "Dr. Zohreh Moteshaker & Prof. Minaei",
-      "topic": "Improving Reasoning in Large Language Models Using Prompt Engineering or Model Tuning Methods",
-      "image": "./images/people/arefe_rajabian.jpg",
-      "linkedin": ""
-    },
-    {
       "name": "Fatemeh Sotoudeh",
       "degree": "M.Sc. Student",
       "program": "Software Engineering",
@@ -1100,7 +1089,6 @@
       "image": "",
       "linkedin": "https://www.linkedin.com/in/somayeh-rezaie-9a07b21b2/"
     },
-
     {
       "name": "Poorya Sanei",
       "degree": "M.Sc. Student",
