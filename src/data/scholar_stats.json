@@ -1,7 +1,7 @@
 {
   "citations": {
-    "all": 10016,
-    "since_recent": 5103
+    "all": 10021,
+    "since_recent": 5108
   },
   "h_index": {
     "all": 51,
@@ -90,18 +90,18 @@
     },
     {
       "year": 2024,
-      "citations": 868
+      "citations": 867
     },
     {
       "year": 2025,
-      "citations": 956
+      "citations": 958
     },
     {
       "year": 2026,
-      "citations": 593
+      "citations": 596
     }
   ],
-  "last_synced": "2026-11-14 11:47 UTC",
+  "last_synced": "2026-11-16 05:25 UTC",
   "scholar_url": "https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en",
   "total_publications": 440
 }
