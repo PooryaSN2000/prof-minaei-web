@@ -1,7 +1,7 @@
 {
   "citations": {
-    "all": 10021,
-    "since_recent": 5108
+    "all": 10029,
+    "since_recent": 5114
   },
   "h_index": {
     "all": 51,
@@ -66,19 +66,19 @@
     },
     {
       "year": 2018,
-      "citations": 443
+      "citations": 444
     },
     {
       "year": 2019,
-      "citations": 622
+      "citations": 621
     },
     {
       "year": 2020,
-      "citations": 714
+      "citations": 715
     },
     {
       "year": 2021,
-      "citations": 796
+      "citations": 797
     },
     {
       "year": 2022,
@@ -86,11 +86,11 @@
     },
     {
       "year": 2023,
-      "citations": 983
+      "citations": 982
     },
     {
       "year": 2024,
-      "citations": 867
+      "citations": 868
     },
     {
       "year": 2025,
@@ -98,10 +98,10 @@
     },
     {
       "year": 2026,
-      "citations": 596
+      "citations": 600
     }
   ],
-  "last_synced": "2026-11-16 05:25 UTC",
+  "last_synced": "2026-11-23 05:17 UTC",
   "scholar_url": "https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en",
   "total_publications": 440
 }
