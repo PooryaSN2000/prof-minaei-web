@@ -1,15 +1,15 @@
 {
   "citations": {
-    "all": 10029,
-    "since_recent": 5114
+    "all": 10038,
+    "since_recent": 5123
   },
   "h_index": {
     "all": 51,
     "since_recent": 35
   },
   "i10_index": {
-    "all": 172,
-    "since_recent": 98
+    "all": 173,
+    "since_recent": 99
   },
   "history": [
     {
@@ -98,10 +98,10 @@
     },
     {
       "year": 2026,
-      "citations": 600
+      "citations": 609
     }
   ],
-  "last_synced": "2026-11-23 05:17 UTC",
+  "last_synced": "2026-11-25 07:30 UTC",
   "scholar_url": "https://scholar.google.com/citations?user=M8tgU-wAAAAJ&hl=en",
   "total_publications": 440
 }
