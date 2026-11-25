@@ -329,6 +329,46 @@
       "topic": "",
       "image": "./images/people/amirhossein_karimzadgan.jpeg",
       "linkedin": "https://www.linkedin.com/in/amirhossein-karimzadgan/"
+    },
+    {
+      "name": "Mohammad Hosein (Ashkan) Rabiee",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/mohammadhosein_rabiee.jpeg",
+      "linkedin": "https://www.linkedin.com/in/rabiee-mohammadhosein/"
+    },
+    {
+      "name": "Homa Sadat Hosseini Shokouh",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/homa-hosseini-995195418/"
+    },
+    {
+      "name": "Fateme Seifi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/fateme_seifi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/fatemeseifi/"
+    },
+    {
+      "name": "Arghavan Fotouhi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "Entering 1405 (2026)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/arghavan-fotouhi-22a212417/"
     }
   ],
   "alumni": [
@@ -1348,6 +1388,46 @@
       "topic": "",
       "image": "./images/people/amirhossein_karimzadgan.jpeg",
       "linkedin": "https://www.linkedin.com/in/amirhossein-karimzadgan/"
+    },
+    {
+      "name": "Mohammad Hosein (Ashkan) Rabiee",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/mohammadhosein_rabiee.jpeg",
+      "linkedin": "https://www.linkedin.com/in/rabiee-mohammadhosein/"
+    },
+    {
+      "name": "Homa Sadat Hosseini Shokouh",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/homa-hosseini-995195418/"
+    },
+    {
+      "name": "Fateme Seifi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "./images/people/fateme_seifi.jpeg",
+      "linkedin": "https://www.linkedin.com/in/fatemeseifi/"
+    },
+    {
+      "name": "Arghavan Fotouhi",
+      "degree": "M.Sc. Student",
+      "program": "Artificial Intelligence",
+      "year": "2026 (1405)",
+      "mentor": "Prof. Behrouz Minaei-Bidgoli",
+      "topic": "",
+      "image": "",
+      "linkedin": "https://www.linkedin.com/in/arghavan-fotouhi-22a212417/"
     }
   ]
 }
